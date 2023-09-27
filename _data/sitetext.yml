@@ -13,7 +13,7 @@ en: &DEFAULT_EN
   header:
     title: Welcome!
     text: Raphael S. Steiner
-    button: Tell Me More
+    button: Interests
     buttonlink: "#services"
 
   services:
@@ -56,7 +56,7 @@ en: &DEFAULT_EN
         alt:
       - title: "Ph.D. Researcher"
         year: "2014-2018"
-        desc: under the supervision of <a href="https://pub.ist.ac.at/~tbrownin/">Tim Browning</a> and <a href="http://www.bristol.ac.uk/maths/people/andrew-r-booker/index.html">Andrew Booker</a> at the University of Bristol, Bristol, UK.
+        desc: "under the supervision of <a href="https://pub.ist.ac.at/~tbrownin/">Tim Browning</a> and <a href="http://www.bristol.ac.uk/maths/people/andrew-r-booker/index.html">Andrew Booker</a> at the University of Bristol, Bristol, UK."
         image: assets/img/timeline/Bristol.jpg
         alt:
       - title: "Master of Science"
@@ -101,8 +101,8 @@ en: &DEFAULT_EN
 
   team:
     title: "About me"
-    text: I am currently enjoying being a Hermann-Weyl-Instructor at ETH in Zurich. Previously, I've been a member at the IAS in Princeton and before that I was doing my Ph.D. at the University of Bristol under the joint supervision by <a href="https://pub.ist.ac.at/~tbrownin/">Tim Browning</a> and <a href="http://www.bristol.ac.uk/maths/people/andrew-r-booker/index.html">Andrew Booker</a>. My topics of interest lie in analytic number theory. Currently, I'm particularly interested in Automorphic Forms and their distributional aspects. <br><br>
-    Before university I participated in the <a href="http://www.imosuisse.ch">Swiss Math Olympiad</a>, where I've won a complete set of medals over the three years I participated. I further qualified for the <a href="https://www.imo-official.org/">International Math Olympiad</a>, where I won a bronze medal in my last year. After participating I joined the organisation team of the <a href="http://www.imosuisse.ch">Swiss Math Olympiad</a>, where I was quite active until recently. Over the years some of my problems made it into different exams and you can find a nice selection thereof in the <a href="https://people.math.ethz.ch/~steinrap/olymp">Olympiad Problems</a> section.
+    text: "I am currently enjoying being a Hermann-Weyl-Instructor at ETH in Zurich. Previously, I've been a member at the IAS in Princeton and before that I was doing my Ph.D. at the University of Bristol under the joint supervision by <a href="https://pub.ist.ac.at/~tbrownin/">Tim Browning</a> and <a href="http://www.bristol.ac.uk/maths/people/andrew-r-booker/index.html">Andrew Booker</a>. My topics of interest lie in analytic number theory. Currently, I'm particularly interested in Automorphic Forms and their distributional aspects. <br><br>
+    Before university I participated in the <a href="http://www.imosuisse.ch">Swiss Math Olympiad</a>, where I've won a complete set of medals over the three years I participated. I further qualified for the <a href="https://www.imo-official.org/">International Math Olympiad</a>, where I won a bronze medal in my last year. After participating I joined the organisation team of the <a href="http://www.imosuisse.ch">Swiss Math Olympiad</a>, where I was quite active until recently. Over the years some of my problems made it into different exams and you can find a nice selection thereof in the <a href="https://people.math.ethz.ch/~steinrap/olymp">Olympiad Problems</a> section."
     subtext:
     section: team
     align: right
