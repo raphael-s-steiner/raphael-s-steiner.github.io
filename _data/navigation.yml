@@ -21,6 +21,10 @@ en: &DEFAULT_EN
 #      section: about
     - title: "CV"
       section: timeline
+    - title: "Teaching"
+      url: ""
+    - title: "Olympiad Problems"
+      url: ""
 #    - title: "Contact"
 #      section: contact
 #    - title: "Theme Source"
