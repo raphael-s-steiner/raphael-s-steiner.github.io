@@ -75,17 +75,20 @@ en: &DEFAULT_EN
     url: /CV_general_Raphael_Steiner_EN.pdf
 
 
-  about:
-    title: "About me"
-    text: ""
-    body: ""
-    section: about
+#  about:
+#    title: "About me"
+#    text: ""
+#    body: ""
+#    section: about
 
   clients:
     section: clients
     max-height: 70px
     horizontal-scrolling: "" #"yes/no"
     list:
+      - title: "Swiss Mathematics Olympiad"
+        url: https://mathematical.olympiad.ch/
+        logo: assets/img/clients/smo.svg
       - title: "orcid"
         url: https://orcid.org/0000-0001-8391-8949
         logo: assets/img/clients/orcid.png
