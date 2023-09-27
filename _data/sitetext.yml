@@ -84,7 +84,7 @@ en: &DEFAULT_EN
   clients:
     section: clients
     max-height: 70px
-    horizontal-scrolling: "" #"yes/no"
+    horizontal-scrolling: "yes" #"yes/no"
     list:
       - title: "Swiss Mathematics Olympiad"
         url: https://mathematical.olympiad.ch/
