@@ -72,7 +72,7 @@ en: &DEFAULT_EN
         # you can enforce the alignment
 #        align: right
     end: "Click here <br> to see my full <br> CV"
-    url: ../CV_general_Raphael_Steiner_EN.pdf
+    url: /CV_general_Raphael_Steiner_EN.pdf
 
 
 #  about:
