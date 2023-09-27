@@ -17,4 +17,4 @@ Let $f(z)=\sum A(n)n^{\frac{(k−1)}{2}} e(nz)$ be a cusp form of weight $k\ge3$
 This includes an appendix due to Raphael S. Steiner, proving stronger bounds for certain spectral averages.
 
 #### Links
-[ArXiv](https://arxiv.org/abs/2301.11901)
+**[ArXiv](https://arxiv.org/abs/2301.11901)**
