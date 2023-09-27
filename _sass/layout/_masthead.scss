@@ -1,7 +1,7 @@
 // Styling for the masthead
 header.masthead {
   text-align: center;
-  color: $primary;
+  color: darken($primary, 7.5%);
   background-image: url("#{$header-image}");
   background-repeat: no-repeat;
   background-attachment: scroll;
