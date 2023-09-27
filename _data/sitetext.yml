@@ -101,14 +101,14 @@ en: &DEFAULT_EN
 
   team:
     title: "About me"
-    text: I am currently enjoying being a Hermann-Weyl-Instructor at ETH in Zurich. Previously, I've been a member at the IAS in Princeton and before that I was doing my Ph.D. at the University of Bristol under the joint supervision by [Tim Browning](https://pub.ist.ac.at/~tbrownin/) and [Andrew Booker](http://www.bristol.ac.uk/maths/people/andrew-r-booker/index.html). My topics of interest lie in analytic number theory. Currently, I'm particularly interested in Automorphic Forms and their distributional aspects. Before university I participated in the [Swiss Math Olympiad](https://mathematical.olympiad.ch/), where I've won a complete set of medals over the three years I participated. I further qualified for the [International Math Olympiad](https://www.imo-official.org/), where I won a bronze medal in my last year. After participating I joined the organisation team of the [Swiss Math Olympiad](https://mathematical.olympiad.ch/), where I was quite active until recently. Over the years some of my problems made it into different exams and you can find a nice selection thereof in the  section.
-    subtext:
+    text: ""
+    subtext: "I am currently enjoying being a Hermann-Weyl-Instructor at ETH in Zurich. Previously, I've been a member at the IAS in Princeton and before that I was doing my Ph.D. at the University of Bristol under the joint supervision by [Tim Browning](https://pub.ist.ac.at/~tbrownin/) and [Andrew Booker](http://www.bristol.ac.uk/maths/people/andrew-r-booker/index.html). My topics of interest lie in analytic number theory. Currently, I'm particularly interested in Automorphic Forms and their distributional aspects. Before university I participated in the [Swiss Math Olympiad](https://mathematical.olympiad.ch/), where I've won a complete set of medals over the three years I participated. I further qualified for the [International Math Olympiad](https://www.imo-official.org/), where I won a bronze medal in my last year. After participating I joined the organisation team of the [Swiss Math Olympiad](https://mathematical.olympiad.ch/), where I was quite active until recently. Over the years some of my problems made it into different exams and you can find a nice selection thereof in the  section."
     section: team
     align: right
     people:
       - name: "Raphael S. Steiner"
         role: ""
-        image: assets/img/team/Website_Photo_500.jpg
+        image: assets/img/team/2.jpg
         social:
           - url: mailto:raphael.steiner.academic@gmail.com
             icon: far fa-envelope
