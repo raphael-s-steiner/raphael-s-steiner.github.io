@@ -11,15 +11,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-theme: jekyll-agency
+remote_theme: raviriley/agency-jekyll-theme
 
-url    : "" # the base hostname & protocol for your site, e.g. http://example.com
+url    : "https://raphael-s-steiner.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : Your Awesome Website
-email      : your-email@example.com #this is also the email contact forms will go to
-description: "Site description"
-author     : Your Name
+repository: "raphael-s-steiner/raphael-s-steiner.github.io"
+title      : Raphael S. Steiner
+email      : raphael.steiner.academic@gmail.com #this is also the email contact forms will go to
+description: "Personal Webpage"
+author     : Raphael Steiner
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
