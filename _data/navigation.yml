@@ -20,7 +20,7 @@ en: &DEFAULT_EN
 #    - title: "About"
 #      section: about
     - title: "Timeline"
-      section: timeline
+      section: CV
 #    - title: "Contact"
 #      section: contact
 #    - title: "Theme Source"
