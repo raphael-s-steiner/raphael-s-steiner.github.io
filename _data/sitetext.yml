@@ -89,6 +89,9 @@ en: &DEFAULT_EN
       - title: "Swiss Mathematics Olympiad"
         url: https://mathematical.olympiad.ch/
         logo: assets/img/clients/smo.svg
+      - title: "International Mathematics Olympiad"
+        url: https://www.imo-official.org/participant_r.aspx?id=15814
+        logo: assets/img/clients/IMO.gif
       - title: "orcid"
         url: https://orcid.org/0000-0001-8391-8949
         logo: assets/img/clients/orcid.png
