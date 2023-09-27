@@ -35,7 +35,7 @@ en: &DEFAULT_EN
     title: "Publications"
     text: ""
     section: portfolio
-    closebutton: "Close abstract"
+    closebutton: "Close Window"
 
   timeline:
     title: "Curriculum vitae"
