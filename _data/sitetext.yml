@@ -32,7 +32,7 @@ en: &DEFAULT_EN
         icon: fab fa-markdown
 
   portfolio:
-    title: "Publications"
+    title: "Selected Publications"
     text: ""
     section: portfolio
     closebutton: "Close Window"
