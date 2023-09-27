@@ -98,6 +98,10 @@ en: &DEFAULT_EN
       - title: "Google Scholar"
         url: https://scholar.google.com/citations?user=mq9dr3IAAAAJ
         logo: assets/img/clients/google.png
+      - title: "MathScinet"
+        url: https://mathscinet.ams.org/mathscinet/author?authorId=1160891
+        logo: assets/img/clients/mathscinet.png
+
 
   team:
     title: "About me"
