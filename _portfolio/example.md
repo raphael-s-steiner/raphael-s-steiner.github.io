@@ -1,7 +1,7 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Appendix to <a href="https://arxiv.org/abs/2301.11901">Sums of Cusp Form Coefficients Along Quadratic Sequences</a>
-  subtitle: by <a href="">C. I. Kuan</a>, <a href="https://davidlowryduda.com/">D. Lowry-Duda</a>, and <a href="https://awwalker.com/">A. Walker</a>.
+  title: "Appendix to <a href="https://arxiv.org/abs/2301.11901">Sums of Cusp Form Coefficients Along Quadratic Sequences</a>"
+  subtitle: "by <a href="">C. I. Kuan</a>, <a href="https://davidlowryduda.com/">D. Lowry-Duda</a>, and <a href="https://awwalker.com/">A. Walker</a>."
   thumbnail: #https://place-hold.it/400x300
 
 #what displays when the item is clicked:
