@@ -3,16 +3,9 @@ layout: page
 title: Publication List
 background: grey
 ---
-<section class="page-section">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12 text-center">
-        <h2 class="section-heading text-uppercase">Publication List</h2>
-        <h3 class="section-subheading text-muted"></h3>
-      </div>
-    </div>
-  </div>
-</section>
+
+
+#Publication List
 
 - Appendix to <a href="https://arxiv.org/abs/2301.11901">Sums of Cusp Form Coefficients Along Quadratic Sequences</a>, by <a href="">C. I. Kuan</a>, <a href="https://davidlowryduda.com/">D. Lowry-Duda</a>, and <a href="https://awwalker.com/">A. Walker</a>,
 - <a href="https://arxiv.org/abs/2302.06409">Kloosterman sums do not correlate with periodic functions</a>, submitted,
