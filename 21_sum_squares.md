@@ -8,11 +8,11 @@ background: grey
 
 ## Streaming und Aufzeichnungen
 
-Das Livestreaming der Vorlesung befindet sich unter dem folgenden Link: https://video.ethz.ch/live/lectures/zentrum/hg/hg-e-22/hg-e-22-uhd.html
+Das Livestreaming der Vorlesung befindet sich unter dem folgenden Link: [https://video.ethz.ch/live/lectures/zentrum/hg/hg-e-22/hg-e-22-uhd.html](https://video.ethz.ch/live/lectures/zentrum/hg/hg-e-22/hg-e-22-uhd.html)
 
 Studierende, welche die Fernübertragung der Vorlesung nutzen, können Fragen per Padlet stellen. Der Link dazu wurde per E-mail versendet.
 
-Aufzeichnungen der Vorlesung befinden sich unter dem folgenden Link: https://www.video.ethz.ch/lectures/d-math/2021/autumn/401-2113-71L.html
+Aufzeichnungen der Vorlesung befinden sich unter dem folgenden Link: [https://www.video.ethz.ch/lectures/d-math/2021/autumn/401-2113-71L.html](https://www.video.ethz.ch/lectures/d-math/2021/autumn/401-2113-71L.html)
 
 (Passwort und Login für die Aufzeichnungen erhielten Sie per E-mail.)
 
