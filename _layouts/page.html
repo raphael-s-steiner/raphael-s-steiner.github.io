@@ -11,5 +11,5 @@ document.getElementById("page-top").className="bg-light";
 {% endif %}
 
 <div class="container" id="pagecontainer">
-{{ content }}
+{{ content | markdownify }}
 </div>
