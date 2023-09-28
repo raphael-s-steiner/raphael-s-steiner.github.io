@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Specimen stories
+title: Publications
 background: grey
 ---
 
 
-## Publication List
+## Publications
 
 - Appendix to <a href="https://arxiv.org/abs/2301.11901">Sums of Cusp Form Coefficients Along Quadratic Sequences</a>, by <a href="">C. I. Kuan</a>, <a href="https://davidlowryduda.com/">D. Lowry-Duda</a>, and <a href="https://awwalker.com/">A. Walker</a>,
 - <a href="https://arxiv.org/abs/2302.06409">Kloosterman sums do not correlate with periodic functions</a>, submitted,
