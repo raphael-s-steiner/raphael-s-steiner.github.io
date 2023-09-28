@@ -22,9 +22,9 @@ en: &DEFAULT_EN
     - title: "CV"
       section: timeline
     - title: "Teaching"
-      url: ""
+      url: /teaching
     - title: "Olympiad Problems"
-      url: ""
+      url: /olymp
 #    - title: "Contact"
 #      section: contact
     - title: "Test"

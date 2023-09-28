@@ -4,8 +4,8 @@ title: Publications
 background: grey
 ---
 
-# Publications
-<br />
+# Publications  
+
 - Appendix to <a href="https://arxiv.org/abs/2301.11901">Sums of Cusp Form Coefficients Along Quadratic Sequences</a>, by <a href="">C. I. Kuan</a>, <a href="https://davidlowryduda.com/">D. Lowry-Duda</a>, and <a href="https://awwalker.com/">A. Walker</a>,
 - <a href="https://arxiv.org/abs/2302.06409">Kloosterman sums do not correlate with periodic functions</a>, submitted,
 - <a href="https://arxiv.org/abs/2211.00379">Chowla and Sarnak Conjectures for Kloosterman Sums</a>, joint with <a href="https://lmrs.univ-rouen.fr/fr/persopage/el-houcein-el-abdalaoui">E. H. El Abdalaoui</a> and <a href="https://web.maths.unsw.edu.au/~igorshparlinski/">I. E. Shparlinski</a>, Mathematische Nachrichten, <a href="https://doi.org/10.1002/mana.202200480">journal link</a>,
