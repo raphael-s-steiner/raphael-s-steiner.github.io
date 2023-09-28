@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publication List
+title: Specimen stories
 background: grey
 ---
 <section class="page-section">
