@@ -27,8 +27,8 @@ en: &DEFAULT_EN
       url: /olymp
 #    - title: "Contact"
 #      section: contact
-    - title: "Test"
-      url: /test
+#    - title: "Test"
+#      url: /test
 #    - title: "Theme Source"
 #      url: https://github.com/raviriley/agency-jekyll-theme/
 en-US:
