@@ -39,7 +39,7 @@ publication:
         url: https://lmrs.univ-rouen.fr/fr/persopage/el-houcein-el-abdalaoui
       - name: "I. E. Shparlinski"
         url: https://web.maths.unsw.edu.au/~igorshparlinski/
-  - title: "Small diameters and generators for arithmetic lattices in $\mathrm{SL}_2(\mathbb{R})$ and certain Ramanujan graphs"
+  - title: "Small diameters and generators for arithmetic lattices in $\\mathrm{SL}_2(\\mathbb{R})$ and certain Ramanujan graphs"
     ArXiV_url: https://arxiv.org/abs/2207.12684
     journal:
       name: "The Ramanujan Journal (2023)"
