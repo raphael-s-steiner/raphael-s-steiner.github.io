@@ -4,7 +4,6 @@ title: Summen von Quadraten
 background: grey
 ---
 
-<div class="md-content">
 # Summen von Quadraten
 
 ## Streaming und Aufzeichnungen
@@ -41,4 +40,3 @@ Das unvollständige Skript lässt sich hier herunterladen: \([Download](/SumSqua
 - J. Voight, Quaternion algebras
 - F. Lemmermeyer, Binary Quadratic Forms
 - S. Bosch, Algebra
-</div>

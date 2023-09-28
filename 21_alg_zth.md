@@ -4,7 +4,6 @@ title: Seminar in Algebraischer Zahlentheorie
 background: grey
 ---
 
-<div class="md-content">
 # Seminar in Algebraischer Zahlentheorie
 
 Assistent: [Lauro Silini](https://math.ethz.ch/the-department/people.html?u=lsilini)
@@ -30,6 +29,8 @@ Assistent: [Lauro Silini](https://math.ethz.ch/the-department/people.html?u=lsil
 | 24. Mai | | Pfingsten | |
 | 31. Mai | Lara Imhof | Dirichlet $L$-Funktionen und Dichtigkeitssätze \([Skript](AlgZTFiles/Skript_11.pdf)\), \([Vorlesung](AlgZTFiles/Vorlesung_11.pdf)\) | \[N, §7.1, §7.2, §7.9, §7.13\], \[S, §8\] |
 
+<br>
+
 ## Literatur
 
 - M. F. Atiyah und I. G. Macdonald, Introduction to commutative algebra
@@ -37,4 +38,3 @@ Assistent: [Lauro Silini](https://math.ethz.ch/the-department/people.html?u=lsil
 - J. Neukirch, Algebraische Zahlentheorie
 - A. Schmidt, Einführung in die algebraische Zahlentheorie
 - U. Zannier, Lecture notes on Diophantine analysis
-</div>
