@@ -69,3 +69,52 @@ img::selection {
 img::-moz-selection {
   background: transparent;
 }
+
+
+/* md-content */
+
+.md-content p, .md-content blockquote, .md-content ul, .md-content ol, .md-content dl, .md-content table, .md-content pre {
+	margin: 15px 0;
+}
+
+.md-content table {
+	padding: 0;border-collapse: collapse; }
+	.md-content table tr {
+		border-top: 1px solid #cccccc;
+		background-color: white;
+		margin: 0;
+		padding: 0; }
+		.md-content table tr:nth-child(2n) {
+			background-color: #f8f8f8; }
+		.md-content table tr th {
+			font-weight: bold;
+			border: 1px solid #cccccc;
+			margin: 0;
+			padding: 6px 13px; }
+		.md-content table tr td {
+			border: 1px solid #cccccc;
+			margin: 0;
+			padding: 6px 13px; }
+		.md-content table tr th :first-child, table tr td :first-child {
+			margin-top: 0; }
+		.md-content table tr th :last-child, table tr td :last-child {
+			margin-bottom: 0; }
+
+li p.first {
+	display: inline-block; }
+li {
+	margin: 0; }
+ul, ol {
+	padding-left: 30px; }
+
+ul :first-child, ol :first-child {
+	margin-top: 0; }
+
+@media print {
+		.md-content table, .md-content pre {
+				page-break-inside: avoid;
+		}
+		pre {
+				word-wrap: break-word;
+		}
+}

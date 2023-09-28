@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: markdown
 title: Summen von Quadraten
 background: grey
 ---
