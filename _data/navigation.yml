@@ -16,7 +16,7 @@ en: &DEFAULT_EN
     - title: "About me"
       section: team
     - title: "Publications"
-      section: ./publications
+      url: /publications
 #    - title: "About"
 #      section: about
     - title: "CV"
