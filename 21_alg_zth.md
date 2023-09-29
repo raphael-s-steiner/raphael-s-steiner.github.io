@@ -29,7 +29,7 @@ Assistent: [Lauro Silini](https://math.ethz.ch/the-department/people.html?u=lsil
 | 24. Mai | | Pfingsten | |
 | 31. Mai | Lara Imhof | Dirichlet $L$-Funktionen und Dichtigkeitssätze \([Skript](AlgZTFiles/Skript_11.pdf)\), \([Vorlesung](AlgZTFiles/Vorlesung_11.pdf)\) | \[N, §7.1, §7.2, §7.9, §7.13\], \[S, §8\] |
 
-<br>
+
 
 ## Literatur
 
