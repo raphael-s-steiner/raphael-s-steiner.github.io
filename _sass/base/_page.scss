@@ -115,3 +115,8 @@ ul :first-child, ol :first-child {
 				page-break-inside: avoid;
 		}
 }
+
+dl dd {
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
