@@ -40,6 +40,8 @@ background: grey
     Let $x,y,z \in \mathbb{R}^+_0$ satisfying $xy+yz+zx=1$. Prove the following inequality $$\frac{4}{x+y+z}\le (x+y)(\sqrt{3}z+1).$$
   </dd>
 
+  <dt></dt>
+  <dd></dd>
   <!-- More elements -->
 </dl>
 
