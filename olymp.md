@@ -34,13 +34,8 @@ background: grey
     Let $x,y,z,w \in \mathbb{R} \backslash \{0\}$ such that $x+y\neq 0, z+w \neq 0$, and $xy+zw \ge 0$. Prove the inequality $$\left( \frac{x+y}{z+w}+\frac{z+w}{x+y} \right)^{-1}+\frac{1}{2} \ge \left( \frac{x}{z}+\frac{z}{x} \right)^{-1}+ \left( \frac{y}{w}+\frac{w}{y} \right)^{-1}.$$
   </dd>
 
-  <dt>SMO 2017:>
+  <dt>SMO 2017:</dt>
   <dd>
     Let $x,y,z \in \mathbb{R}^+_0$ satisfying $xy+yz+zx=1$. Prove the following inequality $$\frac{4}{x+y+z}\le (x+y)(\sqrt{3}z+1).$$
   </dd>
-
-  <dt></dt>
-  <dd><br></dd>
-  <!-- More elements -->
-
 </dl>
