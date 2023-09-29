@@ -116,9 +116,13 @@ ul :first-child, ol :first-child {
 		}
 }
 
+dl dt {
+  margin-left: 50px;
+}
+
 dl dd {
   margin-top: 7px;
   margin-bottom: 35px;
-  margin-left: 75px;
-  margin-right: 75px;
+  margin-left: 125px;
+  margin-right: 125px;
 }
