@@ -12,7 +12,7 @@ background: grey
 <dl>
   <dt>SMO 2011</dt>
   <dd>
-    Find all integers $z \in \BZ$, such that $$2^{z}+2=r^2,$$ where $r \in \BQ$ is a rational number.
+    Find all integers $z \in \mathbb{Z}$, such that $$2^{z}+2=r^2,$$ where $r \in \mathbb{Q}$ is a rational number.
   </dd>
 
   <dt>SMO 2012</dt>
@@ -22,7 +22,7 @@ background: grey
 
   <dt>Swiss TST 2013</dt>
   <dd>
-    Let $P$ denote a polynomial with integer coefficients, such that for all $u,v \in \BN$ the following holds: $$u^{2^{2013}}-v^{2^{2013}}|P(u)-P(v).$$ Prove that there is a polynomial $Q$ with integer coefficients such that $P(x)=Q(x^{2^{2013}})$ holds.
+    Let $P$ denote a polynomial with integer coefficients, such that for all $u,v \in \mathbb{N}$ the following holds: $$u^{2^{2013}}-v^{2^{2013}}|P(u)-P(v).$$ Prove that there is a polynomial $Q$ with integer coefficients such that $P(x)=Q(x^{2^{2013}})$ holds.
   </dd>
 
   <dt>Swiss TST 2013</dt>
@@ -32,11 +32,11 @@ background: grey
 
   <dt>MEMO 2013</dt>
   <dd>
-    Let $x,y,z,w \in \BR \backslash \{0\}$ such that $x+y\neq 0, z+w \neq 0$, and $xy+zw \ge 0$. Prove the inequality $$\left( \frac{x+y}{z+w}+\frac{z+w}{x+y} \right)^{-1}+\frac{1}{2} \ge \left( \frac{x}{z}+\frac{z}{x} \right)^{-1}+ \left( \frac{y}{w}+\frac{w}{y} \right)^{-1}.$$
+    Let $x,y,z,w \in \mathbb{R} \backslash \{0\}$ such that $x+y\neq 0, z+w \neq 0$, and $xy+zw \ge 0$. Prove the inequality $$\left( \frac{x+y}{z+w}+\frac{z+w}{x+y} \right)^{-1}+\frac{1}{2} \ge \left( \frac{x}{z}+\frac{z}{x} \right)^{-1}+ \left( \frac{y}{w}+\frac{w}{y} \right)^{-1}.$$
   </dd>
 
   <dt>SMO 2017>
   <dd>
-    Let $x,y,z \in \BR^+_0$ satisfying $xy+yz+zx=1$. Prove the following inequality $$\frac{4}{x+y+z}\le (x+y)(\sqrt{3}z+1).$$
+    Let $x,y,z \in \mathbb{R}^+_0$ satisfying $xy+yz+zx=1$. Prove the following inequality $$\frac{4}{x+y+z}\le (x+y)(\sqrt{3}z+1).$$
   </dd>
 </dl>
