@@ -6,8 +6,7 @@ background: grey
 
 # Olympiad Problems
 
-![Olympiad Problems](/prob.jpg)
-
+<!-- ![Olympiad Problems](/prob.jpg) -->
 
 <dl>
   <dt>SMO 2011</dt>
@@ -43,6 +42,7 @@ background: grey
   <dt></dt>
   <dd></dd>
   <!-- More elements -->
+
 </dl>
 
 This is super weird!
