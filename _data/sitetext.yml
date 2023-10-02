@@ -23,13 +23,13 @@ en: &DEFAULT_EN
     list:
       - title: "E-Commerce" #Number Theory, Automorphic forms, Problem Solving, Fotography
         desc: "Latex test $\\frac{4}{5} \\in \\mathrm{GL}_1(\\mathbb{R})$"
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fas fa-wave-square #find more at https://fontawesome.com/icons wave-square book check lightbulb
       - title: "Responsive Design"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
+        icon: fas fa-book
       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+        icon: fab fa-lightbulb
 
   portfolio:
     title: "Selected Publications"
