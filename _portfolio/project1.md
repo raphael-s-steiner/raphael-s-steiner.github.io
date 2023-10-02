@@ -2,7 +2,7 @@
 title: Theta functions, fourth moments of eigenforms, and the sup-norm problem II
 subtitle: by <a href="https://khayutin.github.io/">Ilya Khayutin</a>, <a href="https://pure.au.dk/portal/en/paul.nelson@math.au.dk">Paul D. Nelson</a>, and <a href="#">Raphael S. Steiner</a>.
 image: assets/img/portfolio/Both_HEF.jpg
-alt:
+alt: Two Hecke eigenforms on S^2
 
 caption:
   title: Theta functions, fourth moments of eigenforms, and the sup-norm problem II
