@@ -1,13 +1,13 @@
 ---
 title: Small diameters and generators for arithmetic lattices in $\mathrm{SL}_2(\mathbb{R})$ and certain Ramanujan graphs
 subtitle: by <a href="#">Raphael S. Steiner</a>.
-image: assets/img/hyperbolic_surface.jpg
+image: assets/img/portfolio/hyperbolic_surface.jpg
 alt: The hyperbolic surface corresponding to a maximal order in a quaternion algebra over Q of reduced discriminant 35 depicted in the Poincaré disk.
 
 caption:
   title: Small diameters and generators for arithmetic lattices in $\mathrm{SL}_2(\mathbb{R})$ and certain Ramanujan graphs
   subtitle:
-  thumbnail: assets/img/hyperbolic_surface.jpg
+  thumbnail: assets/img/portfolio/hyperbolic_surface.jpg
 ---
 
 #### Abstract
