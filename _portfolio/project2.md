@@ -16,4 +16,4 @@ We  show  that a  twisted variant of Linnik's conjecture on sums of Kloosterman 
 #### Links
 
 **[International Mathematics Research Notices, Vol. 2019 1,](https://doi.org/10.1093/imrn/rnx116)**  
-**[ArXiv](https://arxiv.org/abs/1609.06097)**
+**[ArXiv](https://arxiv.org/abs/1609.06097)**  

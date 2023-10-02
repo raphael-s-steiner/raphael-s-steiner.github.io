@@ -23,4 +23,4 @@ We establish analogous estimates in the setting of definite quaternion algebras.
 
 #### Links
 
-**[ArXiv](https://arxiv.org/abs/2207.12351)**
+**[ArXiv](https://arxiv.org/abs/2207.12351)**  
