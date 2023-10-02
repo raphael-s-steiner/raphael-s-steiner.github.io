@@ -1,13 +1,13 @@
 ---
 title: Theta functions, fourth moments of eigenforms, and the sup-norm problem II
 subtitle: by <a href="https://khayutin.github.io/">Ilya Khayutin</a>, <a href="https://pure.au.dk/portal/en/paul.nelson@math.au.dk">Paul D. Nelson</a>, and <a href="#">Raphael S. Steiner</a>.
-image:
+image: assets/img/Both_HEF.jpg
 alt:
 
 caption:
   title: Theta functions, fourth moments of eigenforms, and the sup-norm problem II
   subtitle: joint with <a href="https://khayutin.github.io/">Ilya Khayutin</a> and <a href="https://pure.au.dk/portal/en/paul.nelson@math.au.dk">Paul D. Nelson</a>.
-  thumbnail:
+  thumbnail: assets/img/Single_HEF.jpg
 ---
 
 #### Abstract
