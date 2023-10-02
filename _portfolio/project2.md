@@ -1,7 +1,7 @@
 ---
 title: Twisted Linnik implies optimal covering exponent for $S^3$
 subtitle: by <a href="https://tdbrowning.github.io/tdb/">Tim Browning</a>, <a href="https://scholar.google.at/citations?user=FhNwBeQAAAAJ&hl=de">V. Vinay Kumaraswamy</a>, and <a href="#">Raphael S. Steiner</a>.
-image: 04-thumbnail.jpg
+image: 
 alt:
 
 caption:
