@@ -14,7 +14,7 @@ en: &DEFAULT_EN
     title: Welcome!
     text: Raphael S. Steiner
     button: Interests
-    buttonlink: "#services"
+    buttonlink: "#interests"
 
   services:
     title: "Interests"
@@ -40,7 +40,7 @@ en: &DEFAULT_EN
   timeline:
     title: "Curriculum vitae"
     text: ""
-    section: 
+    section: timeline
     # left is the default
     #start_align: "left"
     events:
