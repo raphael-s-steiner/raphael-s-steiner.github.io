@@ -6,7 +6,7 @@ alt:
 
 caption:
   title: Twisted Linnik implies optimal covering exponent for $S^3$
-  subtitle: joint with joint with <a href="https://tdbrowning.github.io/tdb/">Tim Browning</a> and V. <a href="https://scholar.google.at/citations?user=FhNwBeQAAAAJ&hl=de">Vinay Kumaraswamy</a>.
+  subtitle: by <a href="https://tdbrowning.github.io/tdb/">Tim Browning</a>, <a href="https://scholar.google.at/citations?user=FhNwBeQAAAAJ&hl=de">V. Vinay Kumaraswamy</a>, and <a href="#">Raphael S. Steiner</a>.
   thumbnail:
 ---
 
@@ -14,5 +14,6 @@ caption:
 We  show  that a  twisted variant of Linnik's conjecture on sums of Kloosterman sums leads to an optimal covering exponent  for $S^3$.
 
 #### Links
-**[ArXiv](https://arxiv.org/abs/1609.06097)**
-**[International Mathematics Research Notices, Vol. 2019 1,](https://doi.org/10.1093/imrn/rnx116)**
+
+- **[ArXiv](https://arxiv.org/abs/1609.06097)**
+- **[International Mathematics Research Notices, Vol. 2019 1,](https://doi.org/10.1093/imrn/rnx116)**
