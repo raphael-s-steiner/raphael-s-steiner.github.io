@@ -1,12 +1,12 @@
 ---
 title: Twisted Linnik implies optimal covering exponent for $S^3$
-subtitle: joint with joint with <a href="https://tdbrowning.github.io/tdb/">Tim Browning</a> and <a href="https://scholar.google.at/citations?user=FhNwBeQAAAAJ&hl=de">V. Vinay Kumaraswamy</a>.
+subtitle: by <a href="https://tdbrowning.github.io/tdb/">Tim Browning</a>, <a href="https://scholar.google.at/citations?user=FhNwBeQAAAAJ&hl=de">V. Vinay Kumaraswamy</a>, and <a href="#">Raphael S. Steiner</a>.
 image: 04-thumbnail.jpg
 alt:
 
 caption:
   title: Twisted Linnik implies optimal covering exponent for $S^3$
-  subtitle: by <a href="https://tdbrowning.github.io/tdb/">Tim Browning</a>, <a href="https://scholar.google.at/citations?user=FhNwBeQAAAAJ&hl=de">V. Vinay Kumaraswamy</a>, and <a href="#">Raphael S. Steiner</a>.
+  subtitle: joint with joint with <a href="https://tdbrowning.github.io/tdb/">Tim Browning</a> and <a href="https://scholar.google.at/citations?user=FhNwBeQAAAAJ&hl=de">V. Vinay Kumaraswamy</a>.
   thumbnail:
 ---
 

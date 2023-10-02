@@ -1,12 +1,12 @@
 ---
 title: Small diameters and generators for arithmetic lattices in $\mathrm{SL}_2(\mathbb{R})$ and certain Ramanujan graphs
-subtitle:  
+subtitle: by <a href="#">Raphael S. Steiner</a>.
 image: 04-thumbnail.jpg
 alt:
 
 caption:
   title: Small diameters and generators for arithmetic lattices in $\mathrm{SL}_2(\mathbb{R})$ and certain Ramanujan graphs
-  subtitle: by <a href="#">Raphael S. Steiner</a>.
+  subtitle:
   thumbnail: 05-thumbnail.jpg
 ---
 
