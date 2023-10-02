@@ -1,19 +1,18 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-full.jpg
-alt: Keep Exploring
+title: Twisted Linnik implies optimal covering exponent for $S^3$
+subtitle: joint with joint with <a href="https://tdbrowning.github.io/tdb/">Tim Browning</a> and V. <a href="https://scholar.google.at/citations?user=FhNwBeQAAAAJ&hl=de">Vinay Kumaraswamy</a>.
+image: 04-thumbnail.jpg
+alt:
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-thumbnail.jpg
+  title: Twisted Linnik implies optimal covering exponent for $S^3$
+  subtitle: joint with joint with <a href="https://tdbrowning.github.io/tdb/">Tim Browning</a> and V. <a href="https://scholar.google.at/citations?user=FhNwBeQAAAAJ&hl=de">Vinay Kumaraswamy</a>.
+  thumbnail:
 ---
 
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+#### Abstract
+We  show  that a  twisted variant of Linnik's conjecture on sums of Kloosterman sums leads to an optimal covering exponent  for $S^3$.
 
-{:.list-inline}
-
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+#### Links
+**[ArXiv](https://arxiv.org/abs/1609.06097)**
+**[International Mathematics Research Notices, Vol. 2019 1,](https://doi.org/10.1093/imrn/rnx116)**

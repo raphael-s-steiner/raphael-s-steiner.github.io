@@ -1,19 +1,17 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+title: Theta functions, fourth moments of eigenforms, and the sup-norm problem II
+subtitle: joint with <a href="">Ilya Khayutin</a> and <a href="https://pure.au.dk/portal/en/paul.nelson@math.au.dk">Paul D. Nelson</a>.
+image: 04-thumbnail.jpg
+alt:
 
 caption:
-  title: Threads
-  subtitle: Illustration
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-thumbnail.jpg
+  title: Theta functions, fourth moments of eigenforms, and the sup-norm problem II
+  subtitle: joint with <a href="">Ilya Khayutin</a> and <a href="https://pure.au.dk/portal/en/paul.nelson@math.au.dk">Paul D. Nelson</a>.
+  thumbnail:
 ---
 
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+#### Abstract
+Let $f$ be an $L^2$-normalized holomorphic newform of weight $k$ on $\\Gamma_0(N) \\backslash \\mathbb{H}$ with $N$ squarefree, or more generally, on any hyperbolic surface $\\Gamma \\backslash \\mathbb{H}$ attached to an Eichler order of squarefree level in an indefinite quaternion algebra over $\\mathbb{Q}$. Denote by $V$ the hyperbolic volume of said surface.  We prove the sup-norm estimate $$\\| \\Im(\\cdot)^{\\frac{k}{2}} f \\|_{\\infty} \\ll_{\\epsilon} (k V)^{\\frac{1}{4}+\\epsilon}$$  with absolute implied constant. For a cuspidal Maaß newform $\\varphi$ of eigenvalue $\\lambda$ on such a surface, we prove that $$\\|\\varphi \\|_{\\infty} \\ll_{\\lambda,\\epsilon} V^{\\frac{1}{4}+\\epsilon}.$$ We establish analogous estimates in the setting of definite quaternion algebras.
 
-{:.list-inline}
-
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+#### Links
+**[ArXiv](https://arxiv.org/abs/2207.12351)**
