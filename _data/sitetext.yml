@@ -56,17 +56,17 @@ en: &DEFAULT_EN
         alt:
       - title: "Ph.D. Researcher"
         year: "2014-2018"
-        desc: "under the supervision of [Tim Browning](https://pub.ist.ac.at/~tbrownin/) and [Andrew Booker](http://www.bristol.ac.uk/maths/people/andrew-r-booker/index.html) at the University of Bristol, Bristol, UK."
+        desc: "Under the supervision of [Tim Browning](https://pub.ist.ac.at/~tbrownin/) and [Andrew Booker](http://www.bristol.ac.uk/maths/people/andrew-r-booker/index.html) at the University of Bristol, Bristol, UK."
         image: assets/img/timeline/Bristol.jpg
         alt:
       - title: "Master of Science"
         year: "2012-2014"
-        desc: "In Mathematics at ETH, Zürich, CH"
+        desc: "In Mathematics at ETH, Zürich, CH. Master thesis written under the supervision of [Abhishek Saha](https://webspace.maths.qmul.ac.uk/abhishek.saha/) and [Emmanuel Kowalski](https://people.math.ethz.ch/~kowalski/)."
         image: assets/img/timeline/ETH.jpg
         alt:
       - title: "Bachelor of Science"
         year: "2012-2014"
-        desc: "With Distinction in Mathematics at ETH, Zürich, CH"
+        desc: "With Distinction in Mathematics at ETH, Zürich, CH. Bachelor thesis written under the supervision of [Clemens Fuchs](https://math.sbg.ac.at/fuchsc/)"
         image: assets/img/timeline/ETH.jpg
         alt:
         # you can enforce the alignment
