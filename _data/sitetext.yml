@@ -22,7 +22,7 @@ en: &DEFAULT_EN
     section: interests
     list:
       - title: "Automorphic Forms" #Number Theory, Automorphic forms, Problem Solving, Fotography
-        desc: "Latex test $\\frac{4}{5} \\in \\mathrm{GL}_1(\\mathbb{R})$"
+        desc: "" # "Latex test $\\frac{4}{5} \\in \\mathrm{GL}_1(\\mathbb{R})$"
         icon: fas fa-wave-square #find more at https://fontawesome.com/icons wave-square book check lightbulb
       - title: "Number Theory"
         desc: ""
