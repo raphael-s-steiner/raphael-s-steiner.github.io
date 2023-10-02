@@ -13,7 +13,7 @@
 
 remote_theme: raviriley/agency-jekyll-theme
 
-url    : "http://raphaelssteiner.com"  # "https://raphael-s-steiner.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url    : "https://raphael-s-steiner.github.io" # the base hostname & protocol for your site, e.g. http://example.com    "http://raphaelssteiner.com"
 baseurl: "" # the subpath of your site, e.g. /blog
 
 repository: "raphael-s-steiner/raphael-s-steiner.github.io"
