@@ -12,9 +12,9 @@
 en: &DEFAULT_EN
   nav:
     - title: "Interests"
-      section: services
+      section: interests
     - title: "About me"
-      section: team
+      section: about
     - title: "Publications"
       url: /publications
 #    - title: "About"

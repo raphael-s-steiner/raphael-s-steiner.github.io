@@ -18,8 +18,8 @@ en: &DEFAULT_EN
 
   services:
     title: "Interests"
-    text: "Lorem ipsum"
-    section: services
+    text: ""
+    section: interests
     list:
       - title: "Automorphic Forms" #Number Theory, Automorphic forms, Problem Solving, Fotography
         desc: "" #"Latex test $\\frac{4}{5} \\in \\mathrm{GL}_1(\\mathbb{R})$"
@@ -29,12 +29,12 @@ en: &DEFAULT_EN
         icon: fas fa-book
       - title: "Problem Solving"
         desc: ""
-        icon: fab fa-lightbulb
+        icon: fas fa-lightbulb
 
   portfolio:
     title: "Selected Publications"
     text: ""
-    section: portfolio
+    section: selected-publications
     closebutton: "Close Window"
 
   timeline:
@@ -56,7 +56,7 @@ en: &DEFAULT_EN
         alt:
       - title: "Ph.D. Researcher"
         year: "2014-2018"
-        desc: "Under the supervision of [Tim Browning](https://pub.ist.ac.at/~tbrownin/) and [Andrew Booker](http://www.bristol.ac.uk/maths/people/andrew-r-booker/index.html) at the University of Bristol, Bristol, UK. [Ph.D. thesis](/Thesis_Hard_Bound.pdf)"
+        desc: "Under the supervision of [Tim Browning](https://pub.ist.ac.at/~tbrownin/) and [Andrew Booker](http://www.bristol.ac.uk/maths/people/andrew-r-booker/index.html) at the University of Bristol, Bristol, UK. [Ph.D. thesis](/Thesis_Hard_Bound.pdf)."
         image: assets/img/timeline/Bristol.jpg
         alt:
       - title: "Master of Science"
@@ -66,7 +66,7 @@ en: &DEFAULT_EN
         alt:
       - title: "Bachelor of Science"
         year: "2012-2014"
-        desc: "With Distinction in Mathematics at ETH, Zürich, CH. [Bachelor thesis](/bachelor_thesis.pdf) written under the supervision of [Clemens Fuchs](https://math.sbg.ac.at/fuchsc/)"
+        desc: "With Distinction in Mathematics at ETH, Zürich, CH. [Bachelor thesis](/bachelor_thesis.pdf) written under the supervision of [Clemens Fuchs](https://math.sbg.ac.at/fuchsc/)."
         image: assets/img/timeline/ETH.jpg
         alt:
         # you can enforce the alignment
@@ -82,7 +82,7 @@ en: &DEFAULT_EN
 #    section: about
 
   clients:
-    section: clients
+    section: links
     max-height: 70px
     horizontal-scrolling: "" #"yes/no"
     list:
@@ -109,7 +109,7 @@ en: &DEFAULT_EN
     <br>
     Before university I participated in the [Swiss Math Olympiad](https://mathematical.olympiad.ch/), where I've won a complete set of medals over the three years I participated. I further qualified for the [International Math Olympiad](https://www.imo-official.org/), where I won a bronze medal in my last year. After participating I joined the organisation team of the [Swiss Math Olympiad](https://mathematical.olympiad.ch/), where I was quite active until recently. Over the years some of my problems made it into different exams and you can find a nice selection thereof in the Olympiad section."
     subtext: ""
-    section: team
+    section: about
     align: left
     people:
       - name: "Raphael S. Steiner"
