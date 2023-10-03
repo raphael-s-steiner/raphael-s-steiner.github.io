@@ -23,7 +23,12 @@ header.masthead {
       line-height: 50px;
       margin-bottom: 25px;
       @include heading-font;
-      -webkit-text-stroke: 3px $white;
+      text-shadow:
+        1px 1px 0 $white,
+        -1px -1px 0 $white,
+        1px -1px 0 $white,
+        -1px 1px 0 $white,
+        1px 1px 0 $white;
     }
   }
 }
