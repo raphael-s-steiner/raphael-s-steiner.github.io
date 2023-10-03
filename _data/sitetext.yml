@@ -94,7 +94,7 @@ en: &DEFAULT_EN
 #        logo: assets/img/clients/IMO.gif
       - title: "orcid"
         url: https://orcid.org/0000-0001-8391-8949
-        logo: assets/img/clients/orcid.png
+        logo: assets/img/clients/orcid_crop.png
       - title: "Google Scholar"
         url: https://scholar.google.com/citations?user=mq9dr3IAAAAJ
         logo: assets/img/clients/google.png
