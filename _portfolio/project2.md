@@ -2,13 +2,13 @@
 title: Twisted Linnik implies optimal covering exponent for $S^3$
 subtitle: by <a href="https://tdbrowning.github.io/tdb/">Tim Browning</a>, <a href="https://scholar.google.at/citations?user=FhNwBeQAAAAJ&hl=de">V. Vinay Kumaraswamy</a>, and <a href="#">Raphael S. Steiner</a>.
 image: assets/img/portfolio/wordlength5_crop.png
-alt: Points on the *two-dimensional* sphere obtained by translation of the north pole by $S^5$, where $S$ are the Golden Gates of Sarnak. 
-img-credit: Points on the *two-dimensional* sphere obtained by translation of the north pole by $S^5$, where $S$ are the Golden Gates of Sarnak.
+alt: Points on the *two-dimensional* sphere obtained by translation of the north pole by $S^5$, where $S$ are the Golden Gates of Sarnak.
+img-credit: Points on the **two-dimensional** sphere obtained by translation of the north pole by $(S \cup S^{-1})^5$, where $S=\frac{1}{\sqrt{5}} \{ \left( \begin{smallmatrix} 1+2i & 0 \\ 0 & 1-2i  \end{smallmatrix} \right) \}$ are the Golden Gates of Sarnak.
 
 caption:
   title: Twisted Linnik implies optimal covering exponent for $S^3$
   subtitle: joint with <a href="https://tdbrowning.github.io/tdb/">Tim Browning</a> and <a href="https://scholar.google.at/citations?user=FhNwBeQAAAAJ&hl=de">V. Vinay Kumaraswamy</a>.
-  thumbnail:
+  thumbnail: assets/img/portfolio/wordlength5_crop.png
 ---
 
 #### Abstract
