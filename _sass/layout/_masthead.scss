@@ -24,11 +24,11 @@ header.masthead {
       margin-bottom: 25px;
       @include heading-font;
       text-shadow:
-        1px 1px 0 $white,
-        -1px -1px 0 $white,
-        1px -1px 0 $white,
-        -1px 1px 0 $white,
-        1px 1px 0 $white;
+        2px 2px 0 $white,
+        -2px -2px 0 $white,
+        2px -2px 0 $white,
+        -2px 2px 0 $white,
+        2px 2px 0 $white;
     }
   }
 }
