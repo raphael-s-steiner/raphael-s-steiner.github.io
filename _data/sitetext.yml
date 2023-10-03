@@ -39,7 +39,7 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Curriculum vitae"
-    text: ""
+    text: " "
     section: timeline
     # left is the default
     #start_align: "left"
