@@ -6,8 +6,8 @@
 @import "base/mixins.scss";
 
 // Custom colors
-// $primary: {{ site.data.style.highlight | default: "#fed136" }} !default;
-$primary: {{ site.data.style.highlight | default: "#feb836" }} !default;
+// $primary: {{ site.data.style.highlight | default: "#fed136" }} !default; // original dark yellow ocra
+$primary: {{ site.data.style.highlight | default: "#EC9A00" }} !default;
 $white: {{ site.data.style.white | default: "#fff" }} !default;
 $black: {{ site.data.style.black | default: "#000" }} !default;
 $yellow: {{ site.data.style.yellow | default: "#fed136" }} !default;
