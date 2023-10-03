@@ -36,6 +36,8 @@ en: &DEFAULT_EN
     text: ""
     section: selected-publications
     closebutton: "Close Window"
+    belowbutton: "All Publications"
+    buttonlink: /publications
 
   timeline:
     title: "Curriculum vitae"
