@@ -12,7 +12,7 @@ caption:
 ---
 
 #### Abstract
-We  show  that a  twisted variant of Linnik's conjecture on sums of Kloosterman sums leads to an optimal covering exponent  for $S^3$.
+We  show  that a twisted variant of Linnik's conjecture on sums of Kloosterman sums leads to an optimal covering exponent for $S^3$.
 
 #### Links
 

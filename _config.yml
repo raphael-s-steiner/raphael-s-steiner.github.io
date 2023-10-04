@@ -16,9 +16,10 @@ remote_theme: raviriley/agency-jekyll-theme
 url    : "https://raphaelssteiner.com/" #"https://raphael-s-steiner.github.io" # the base hostname & protocol for your site, e.g. http://example.com    "http://raphaelssteiner.com"
 baseurl: "" # the subpath of your site, e.g. /blog
 
-repository: "raphael-s-steiner/raphael-s-steiner.github.io"
+repository : "raphael-s-steiner/raphael-s-steiner.github.io"
 title      : Raphael S. Steiner
 email      : raphael.steiner.academic@gmail.com #this is also the email contact forms will go to
+keywords   : "Raphael S. Steiner, Raphael Steiner, Mathematics, Maths, Math, Number Theory, Analytic Number Theory, Automorphic, Forms, Modular, Maass, Maaß, eigenfunction, Laplace, hyperbolic, hyperbolic surface, Ramanujan, Supnorm, Researcher, Research, L-function, L-functions, arithmetic, quantum chaos, Kloosterman sum, Kloosterman sums, Kloosterman, ETH, FIM, University of Bristol, IAS, Institute for Advanced Study"
 description: "Personal webpage of Raphael S. Steiner, a researcher in the analytic theory of numbers with a focus on distributional aspects of automorphic forms, mostly holomorphic and Maass forms, and related objects such as Kloosterman sums, L-functions, and anything else relating to (arithmetic) quantum chaos."
 author     : Raphael S. Steiner
 # logo:     #optional, defaults to site title
