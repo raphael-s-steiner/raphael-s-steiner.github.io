@@ -32,6 +32,10 @@ Aufzeichnungen der Vorlesung befinden sich unter dem folgenden Link: [https://ww
 
 Das unvollständige Skript lässt sich hier herunterladen: \([Download](/SumSquaresFiles/Skript.pdf)\).
 
+## Prüfung
+
+Die [Prüfung](/SumSquaresFiles/Pruefung.pdf) und deren [Lösung](Pruefung_Loesung.pdf) lassen sich hier herunterladen.
+
 ## Literatur
 - Aka, Einsiedler, Ward, A Journey Through The Realm of Numbers
 - A. Schmidt, Einführung in die algebraische Zahlentheorie
