@@ -94,9 +94,12 @@ en: &DEFAULT_EN
 #      - title: "International Mathematics Olympiad"
 #        url: https://www.imo-official.org/participant_r.aspx?id=15814
 #        logo: assets/img/clients/IMO.gif
-      - title: "orcid"
-        url: https://orcid.org/0000-0001-8391-8949
-        logo: assets/img/clients/orcid.png
+      - title: "ArXiv"
+        url: https://arxiv.org/a/steiner_r_1.html
+        logo: assets/img/clients/arxiv-logo.svg
+#      - title: "orcid"
+#        url: https://orcid.org/0000-0001-8391-8949
+#        logo: assets/img/clients/orcid.png
       - title: "Google Scholar"
         url: https://scholar.google.com/citations?user=mq9dr3IAAAAJ
         logo: assets/img/clients/google.png
