@@ -10,6 +10,15 @@ document.getElementById("page-top").className="bg-light";
 </script>
 {% endif %}
 
+
+
 <div class="container" id="pagecontainer">
 {{ content }}
 </div>
+
+
+<script>
+  let page_stripped = window.location.href.replace("{% site.url %}", "").replace("/", "")
+  let element = document.getElementById(page_stripped);
+  element.classList.add("active");
+</script>

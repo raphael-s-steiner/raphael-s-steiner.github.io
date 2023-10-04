@@ -29,7 +29,11 @@
       {% if site.locale and site.locale != "" and site.locale != nil %}
         {%- for link in site.data.navigation[site.locale].nav -%}
         <li class="nav-item">
-          {%- if link.url -%}
+          {%- if link.url and link.section -%}
+          <a class="nav-link js-scroll-trigger" id="{{ link.section }}" href="{{ link.url }}"
+            >{{ link.title }}</a
+          >
+          {%- elsif link.url -%}
           <a class="nav-link js-scroll-trigger" href="{{ link.url }}"
             >{{ link.title }}</a
           >
@@ -47,7 +51,11 @@
       {% else %}
         {%- for link in site.data.navigation.nav -%}
         <li class="nav-item">
-          {%- if link.url -%}
+          {%- if link.url and link.section -%}
+          <a class="nav-link js-scroll-trigger" id="{{ link.section }}" href="{{ link.url }}"
+            >{{ link.title }}</a
+          >
+          {%- elsif link.url -%}
           <a class="nav-link js-scroll-trigger" href="{{ link.url }}"
             >{{ link.title }}</a
           >
