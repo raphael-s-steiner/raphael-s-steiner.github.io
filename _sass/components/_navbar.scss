@@ -1,4 +1,4 @@
-// Styling for the navbar 
+// Styling for the navbar
 #mainNav {
   background-color: $gray-900;
   .navbar-toggler {
@@ -31,6 +31,7 @@
         color: white;
         @include heading-font;
         &.active,
+        &.page-nav-highlight,
         &:hover {
           color: $primary;
         }
