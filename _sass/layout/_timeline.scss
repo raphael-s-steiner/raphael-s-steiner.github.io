@@ -49,7 +49,6 @@
       &:focus,
       &:hover {
         background-color: darken($primary, 7.5%) !important;
-        border-color: darken($gray-200, 7.5%) !important;
       }
       &:active,
       &:focus {
