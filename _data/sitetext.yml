@@ -34,7 +34,7 @@ en: &DEFAULT_EN
   portfolio:
     title: "Selected Publications"
     text: ""
-    section: selected-publications
+    section: publications
     closebutton: "Close Window"
     belowbutton: "All Publications"
     buttonlink: /publications
