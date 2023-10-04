@@ -17,6 +17,7 @@ en: &DEFAULT_EN
       section: about
     - title: "Publications"
       url: /publications
+      section: selected-publications
 #    - title: "About"
 #      section: about
     - title: "CV"
