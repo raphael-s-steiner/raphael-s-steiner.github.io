@@ -17,7 +17,6 @@ publication:
         url: https://davidlowryduda.com
       - name: "Alexander Walker"
         url: https://awwalker.com
-
   - title: "Kloosterman sums do not correlate with periodic functions"
     ArXiV_url: https://arxiv.org/abs/2302.06409
     journal:
@@ -27,7 +26,6 @@ publication:
     Co_Auth_number: 0
     Co_Auth_text: ""
     Co_Auth:
-
   - title: "Chowla and Sarnak Conjectures for Kloosterman Sums"
     ArXiV_url: https://arxiv.org/abs/2211.00379
     journal:
@@ -41,7 +39,6 @@ publication:
         url: https://lmrs.univ-rouen.fr/fr/persopage/el-houcein-el-abdalaoui
       - name: "Igor E. Shparlinski"
         url: https://web.maths.unsw.edu.au/~igorshparlinski/
-
   - title: "Small diameters and generators for arithmetic lattices in $\\mathrm{SL}_2(\\mathbb{R})$ and certain Ramanujan graphs"
     ArXiV_url: https://arxiv.org/abs/2207.12684
     journal:
@@ -51,7 +48,6 @@ publication:
     Co_Auth_number: 0
     Co_Auth_text: ""
     Co_Auth:
-
   - title: "Theta functions, fourth moments of eigenforms, and the sup-norm problem II"
     ArXiV_url: https://arxiv.org/abs/2207.12351
     journal:
@@ -65,7 +61,6 @@ publication:
         url: https://khayutin.github.io/
       - name: "Paul D. Nelson"
         url: https://pure.au.dk/portal/en/paul.nelson@math.au.dk
-
   - title: "Theta functions, fourth moments of eigenforms, and the sup-norm problem I"
     ArXiV_url: https://arxiv.org/abs/2009.07194
     journal:
@@ -77,7 +72,6 @@ publication:
     Co_Auth:
       - name: "Ilya Khayutin"
         url: https://khayutin.github.io/
-
   - title: "Sup-norm of Hecke-Laplace Eigenforms on $S^3$"
     ArXiV_url: https://arxiv.org/abs/1811.03949
     journal:
@@ -87,7 +81,6 @@ publication:
     Co_Auth_number: 0
     Co_Auth_text: ""
     Co_Auth:
-
   - title: "The harmonic conjunction of automorphic forms and the Hardy-Littlewood circle method, Ph.D. thesis"
     ArXiv_alt: "Download"
     ArXiV_url: ./Thesis_Hard_Bound.pdf
@@ -98,7 +91,6 @@ publication:
     Co_Auth_number: 0
     Co_Auth_text: ""
     Co_Auth:
-
   - title: "On a twisted version of Linnik and Selberg&rsquo;s conjecture"
     ArXiV_url: https://arxiv.org/abs/1707.02113
     journal:
@@ -108,7 +100,6 @@ publication:
     Co_Auth_number: 0
     Co_Auth_text: ""
     Co_Auth:
-
   - title: "A conjectural extension of Hecke's converse theorem"
     ArXiV_url: https://arxiv.org/abs/1704.02570
     journal:
@@ -134,7 +125,6 @@ publication:
         url: https://westminsterresearch.westminster.ac.uk/researcher/w4864/dr-tom-oliver?section=biography
       - name: "David J. Platt"
         url: https://people.maths.bris.ac.uk/~madjp/
-
   - title: "Twisted Linnik implies optimal covering exponent for $S^3$"
     ArXiV_url: https://arxiv.org/abs/1609.06097
     journal:
@@ -148,7 +138,6 @@ publication:
         url: https://tdbrowning.github.io/tdb/
       - name: "V. Vinay Kumaraswamy"
         url: https://scholar.google.at/citations?user=FhNwBeQAAAAJ&hl=de
-
   - title: "Near Counterexamples to Weil&rsquo;s Converse Theorem"
     ArXiV_url: http://arxiv.org/abs/1606.06923
     journal:
@@ -158,7 +147,6 @@ publication:
     Co_Auth_number: 0
     Co_Auth_text: ""
     Co_Auth:
-
   - title: "Effective Vinogradov&rsquo;s mean value theorem via efficient boxing"
     ArXiV_url: http://arxiv.org/abs/1603.02536
     journal:
@@ -168,7 +156,6 @@ publication:
     Co_Auth_number: 0
     Co_Auth_text: ""
     Co_Auth:
-
   - title: "Supnorm of Modular Forms of half-integral Weight in the Weight Aspect"
     ArXiV_url: http://arxiv.org/abs/1504.08246
     journal:
@@ -178,7 +165,6 @@ publication:
     Co_Auth_number: 0
     Co_Auth_text: ""
     Co_Auth:
-
   - title: "Uniform bounds on sup-norms of holomorphic forms of real weight"
     ArXiV_url: http://arxiv.org/abs/1406.2918
     journal:
