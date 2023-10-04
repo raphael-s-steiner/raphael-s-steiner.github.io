@@ -21,4 +21,6 @@ document.getElementById("page-top").className="bg-light";
   let page_stripped = window.location.href.replace("{{ site.url }}", "").replace("/", "");
   let element = document.getElementById(page_stripped);
   element.classList.add("active");
+  let element = document.getElementById("demo");
+  element.classList.add("pyjama")
 </script>
