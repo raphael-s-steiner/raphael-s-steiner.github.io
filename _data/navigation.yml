@@ -7,7 +7,7 @@
 # How to use:
 # {{ site.data.navigation[site.locale].nav.<var_name> | default: 'text' }}
 
-# English (default) 
+# English (default)
 # -----------------
 en: &DEFAULT_EN
   nav:
