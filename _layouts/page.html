@@ -18,9 +18,7 @@ document.getElementById("page-top").className="bg-light";
 
 
 <script>
-var page_stripped = window.location.href.replace("{{ site.url }}", "").replace("/", "");
-var element = document.getElementById(page_stripped);
+var page_stripped = window.location.href.replace("{{ site.url }}", "").replace("/", "").split("/");
+var element = document.getElementById(page_stripped[0]);
 element.classList.add("page-nav-highlight");
-var element = document.getElementById("demo");
-element.classList.add("pyjama");
 </script>

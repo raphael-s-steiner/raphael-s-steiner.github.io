@@ -44,3 +44,16 @@ Die [Prüfung](/SumSquaresFiles/Pruefung.pdf) und deren [Lösung](/SumSquaresFil
 - J. Voight, Quaternion algebras
 - F. Lemmermeyer, Binary Quadratic Forms
 - S. Bosch, Algebra
+
+
+
+
+# test
+
+<p id="demo"></p>
+
+<script>
+var tempstring = window.location.href.replace("{{ site.url }}", "").replace("/", "")+"/";
+var tempstring2 = tempstring.split("/")[0];
+document.getElementById("demo").innerHTML = window.location.href + "<br>" + window.location.href.replace("{{ site.url }}", "").replace("/", "")+"<br>"+tempstring+"<br>"+tempstring2;
+</script>

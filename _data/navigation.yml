@@ -7,7 +7,7 @@
 # How to use:
 # {{ site.data.navigation[site.locale].nav.<var_name> | default: 'text' }}
 
-# English (default) 
+# English (default)
 # -----------------
 en: &DEFAULT_EN
   nav:
@@ -24,8 +24,10 @@ en: &DEFAULT_EN
       section: timeline
     - title: "Teaching"
       url: /teaching
+      section: teaching
     - title: "Olympiad Problems"
       url: /olymp
+      section: olymp
 #    - title: "Contact"
 #      section: contact
 #    - title: "Test"
