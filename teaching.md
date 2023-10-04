@@ -11,6 +11,6 @@ background: grey
 ### ETH Zürich
 
 - 2021 Herbstsemester:
-  - [Summen von Quadraten](/21_sum_squares)
+  - [Summen von Quadraten](/teaching/21_sum_squares)
 - 2021 Frühjahrssemester:
-  - [Seminar in Algebraischer Zahlentheorie](/21_alg_zth)
+  - [Seminar in Algebraischer Zahlentheorie](/teaching/21_alg_zth)

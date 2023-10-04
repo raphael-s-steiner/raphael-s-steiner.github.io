@@ -16,7 +16,7 @@ document.getElementById("page-top").className="bg-light";
 {{ content }}
 </div>
 
-
+<!-- Highlights the navbar also on other pages -->
 <script>
 var page_stripped = window.location.href.replace("{{ site.url }}", "").replace("/", "").split("/");
 var element = document.getElementById(page_stripped[0]);
