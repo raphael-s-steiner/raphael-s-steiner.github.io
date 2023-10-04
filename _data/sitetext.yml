@@ -7,7 +7,7 @@
 # How to use:
 # {{ site.data.ui-text[site.locale].<var_name> | default: 'text' }}
 
-# English (default)
+# English (default) 
 # -----------------
 en: &DEFAULT_EN
   header:
