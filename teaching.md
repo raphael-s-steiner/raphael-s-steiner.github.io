@@ -13,5 +13,9 @@ background: grey
 
 ## Previous Courses
 
-- HS21: [Summen von Quadraten](/21_sum_squares)
-- FS21: [Seminar in Algebraischer Zahlentheorie](/21_alg_zth)
+### ETH Zürich
+
+- 2021 Herbstsemester:
+  - [Summen von Quadraten](/21_sum_squares)
+- 2021 Frühjahrssemester:
+  - [Seminar in Algebraischer Zahlentheorie](/21_alg_zth)
