@@ -6,9 +6,9 @@ background: grey
 
 # Seminar in Algebraischer Zahlentheorie
 
-Assistent: [Lauro Silini](https://math.ethz.ch/the-department/people.html?u=lsilini)
+Assistent: [Lauro Silini](https://people.math.ethz.ch/~lsilini/)
 
-[Komplettes Skript](/AlgZTFiles/Notes.pdf), zusammengefügt und bereitgestellt von [Lauro Silini](https://math.ethz.ch/the-department/people.html?u=lsilini)
+[Komplettes Skript](/AlgZTFiles/Notes.pdf), zusammengefügt und bereitgestellt von [Lauro Silini](https://people.math.ethz.ch/~lsilini/)
 
 | Datum | Sprecher:innen | Thema | Referenzen |
 | ----- | -------------- | ----- | ---------- |

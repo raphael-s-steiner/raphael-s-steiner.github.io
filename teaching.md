@@ -6,11 +6,6 @@ background: grey
 
 # Teaching
 
-[comment]: # (## 2021 Fall Semester)
-
-
-
-
 ## Previous Courses
 
 ### ETH Zürich
