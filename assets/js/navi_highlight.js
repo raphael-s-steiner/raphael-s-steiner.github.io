@@ -8,16 +8,16 @@
   // Scrollspy handler
   const scrollHandle = () => {
     const scrollPosition = document.documentElement.scrollTop || document.body.scrollTop;
-    menuLinks.forEach((link) => link.classList.remove('active'));
+    menuLinks.forEach((link) => link.classList.remove('thisisactivetest'));
     sections.forEach((section) => {
       const offset = section.offsetTop - navoffset;
       if (offset <= scrollPosition) {
-        menuLinks.forEach((link) => link.classList.remove('active'));
+        menuLinks.forEach((link) => link.classList.remove('thisisactivetest'));
         const target = document.querySelector(`a[id="nav-bar-${section.id}"]`);
         if (!target.hash) return;
-        target.classList.add('active');
+        target.classList.add('thisisactivetest');
         if (target.parentElement.classList.contains('dropdown-menu')) {
-          target.parentElement.parentElement.firstChild.classList.add('active');
+          target.parentElement.parentElement.firstChild.classList.add('thisisactivetest');
         }
         if (document.querySelector('#navbarResponsive').classList.contains('show')) navToggle.click();
       }
