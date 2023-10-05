@@ -14,6 +14,8 @@
       if (offset <= scrollPosition) {
         menuLinks.forEach((link) => link.classList.remove('thisisactivetest'));
         const target = document.querySelector(`a[id="nav-bar-${section.id}"]`);
+        console.log(target);
+        console.log(target.hash);
 //        if (!target.hash) return;
         target.classList.add('thisisactivetest');
         if (target.parentElement.classList.contains('dropdown-menu')) {
