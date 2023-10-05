@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default_for_page
 ---
 {% include nav.html %}
 
@@ -19,6 +19,6 @@ document.getElementById("page-top").className="bg-light";
 <!-- Highlights the navbar also on other pages -->
 <script>
 var page_stripped = window.location.href.replace("{{ site.url }}", "").replace("/", "").split("/");
-var element = document.getElementById(page_stripped[0]);
+var element = document.getElementById("nav-bar-"+page_stripped[0]);
 element.classList.add("page-nav-highlight");
 </script>

@@ -30,7 +30,7 @@
         {%- for link in site.data.navigation[site.locale].nav -%}
         <li class="nav-item">
           {%- if link.url and link.section -%}
-          <a class="nav-link js-scroll-trigger" id="{{ link.section }}" href="{{ link.url }}"
+          <a class="nav-link js-scroll-trigger" id="nav-bar-{{ link.section }}" href="{{ link.url }}"
             >{{ link.title }}</a
           >
           {%- elsif link.url -%}
@@ -39,7 +39,7 @@
           >
           {%- elsif link.section -%}
           <a
-            class="nav-link js-scroll-trigger"
+            class="nav-link js-scroll-trigger" id="nav-bar-{{ link.section }}"
             href="{{ site.baseurl }}/#{{ link.section }}"
             >{{ link.title }}</a
           >
@@ -61,7 +61,7 @@
           >
           {%- elsif link.section -%}
           <a
-            class="nav-link js-scroll-trigger"
+            class="nav-link js-scroll-trigger" id="nav-bar-{{ link.section }}"
             href="{{ site.baseurl }}/#{{ link.section }}"
             >{{ link.title }}</a
           >
