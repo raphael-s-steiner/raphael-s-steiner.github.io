@@ -12,7 +12,7 @@
         {% for pub in site.data.sitetext[site.locale].publications.list %}
         <div class="expandable-box closed">
           <h6 class="subheading">
-            {{ pub.pre }}{{ pub.title }}
+            <span style="font-weight: 400;">{{ pub.pre }}</span>{{ pub.title }}
           </h6>
           <div class="text-left text-muted">
             {{ pub.Co_Auth_text }}

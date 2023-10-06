@@ -4,7 +4,7 @@
   h2.section-heading {
 //    font-size: 40px;
     margin-top: 0;
-    margin-bottom: 15px;
+    margin-bottom: 55px;
   }
 
   .expandable-boxes {
@@ -50,10 +50,7 @@
         .contents{
           height: 0;
           overflow: hidden;
-          border: none;
-          padding: 0;
-          margin: 0;
-          opacity: 0;
+//          opacity: 0;
         }
       }
     }
