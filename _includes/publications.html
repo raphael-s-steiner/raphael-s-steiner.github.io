@@ -17,31 +17,33 @@
           <div class="text-left text-muted">
             {{ pub.Co_Auth_text }}
             {% for auth in pub.Co_Auth %}
-              <a href="{{auth.url}}">{{ auth.name }}</a>{% if forloop.rindex == 2 %}, and {% elsif forloop.rindex == 1 %}.{% else %}, {% endif %}
+            <a href="{{auth.url}}">{{ auth.name }}</a>{% if forloop.rindex == 2 %}, and {% elsif forloop.rindex == 1 %}.{% else %}, {% endif %}
             {% endfor %}
           </div>
           <div class="contents">
             <div class="container">
-              <div class="row">
+              <div class="row align-items-center">
                 <div class="col-lg-12">
                   {{ pub.abstract }}
                 </div>
               </div>
-              <div class="row">
+              <div class="row align-items-center">
+                <div class="col-sm-1"></div>
                 <div class="col-sm-4 text-center">
                   <a href="{{ pub.arXiv_url }}">arXiv</a>
                 </div>
-                <div class="col-sm-4">
-                </div>
-                <div class="col-sm-4 text-center">
-                  {% if pub.journal.status == "published" %}<a href="pub.journal.url">{{ pub.journal.name }}</a>{% endif %}
-                </div>
+                {% if pub.journal.status == "published" %}
+                  <div class="col-sm-4 text-center">
+                    <a href="{{ pub.journal.url }}">{{ pub.journal.name }}</a>
+                  </div>
+                {% endif %}
+                <div class="col-sm-1"></div>
               </div>
             </div>
           </div>
         </div>
-        {% endfor %}
       </div>
+      {% endfor %}
     </div>
   </div>
 </div>

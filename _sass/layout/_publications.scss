@@ -24,7 +24,7 @@
 
       .contents{
         margin: 12px 0px 0px 0px;
-        padding: 10px;
+        padding: 10px 0px 10px 0px;
         max-height: 200px;
         border: none;
         border-radius: 7px;
@@ -43,7 +43,7 @@
 
       &.closed {
         .contents{
-          padding: 0px 10px 0px 10px;
+          padding: 0px;
           max-height: 0;
           overflow: hidden;
 //          opacity: 0;
