@@ -14,7 +14,7 @@
       padding: 10px;
       box-sizing: border-box;
       background-color: $gray-200;
-      transition: background-color .3s ease-out 0s, border-color .1s ease 0s, height .3 ease 0s;
+      transition: background-color .3s ease-out 0s, border-color .3s ease 0s, transform .3s ease 0s, height .3s ease 0s;
 
       .contents{
         padding: 10px;
