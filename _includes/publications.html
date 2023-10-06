@@ -15,7 +15,10 @@
             {{ pub.pre }}{{ pub.title }}
           </h3>
           <h4 class="text-muted">
-            joint with
+            {{ pub.Co_Auth_text }}
+            {% for auth in pub.Co_Auth %}
+              <a href="{{auth.url}}">{{ auth.name }}</a>
+            {% endfor %}
           </h4>
           <div class="contents">
             <p> This should be hidden </p>
