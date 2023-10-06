@@ -6,5 +6,5 @@ var element = document.getElementById("nav-bar-"+page_stripped[3]);
 if(element !== null){
   element.classList.add("page-nav-highlight");
 } else{
-  console.log("The suburl string is null")
+  console.log("The suburl string is "+page_stripped[3]+" and does not match with a link.")
 }
