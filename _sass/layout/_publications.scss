@@ -1,15 +1,14 @@
 // Styling for the publications section/page
-.publications {
-  .expandable-boxes {
-    position: relative;
-  }
+
+.expandable-boxes {
+  position: relative;
 
   .expandable-box {
     width: 96%;
     height: 130px;
     float: center;
     margin: 0 3% 20px 0;
-    border: 1px solid #999;
+    border: 5px solid #999;
     border-radius: 12px;
     padding: 10px;
     box-sizing: border-box;
