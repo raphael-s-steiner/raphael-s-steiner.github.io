@@ -32,7 +32,7 @@
         overflow: hidden;
         .container .row {
           padding: 10px 0px;
-          .bottom-row {
+          &.bottom-row {
             padding: 0px 0px 10px;
           }
         }
