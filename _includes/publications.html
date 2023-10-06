@@ -11,13 +11,13 @@
       <div class="expandable-boxes">
         {% for pub in site.data.sitetext[site.locale].publications.list %}
         <div class="expandable-box closed">
-          <h4 class="subheading">
+          <h6 class="subheading">
             {{ pub.pre }}{{ pub.title }}
-          </h4>
+          </h6>
           <div class="text-muted">
             {{ pub.Co_Auth_text }}
             {% for auth in pub.Co_Auth %}
-              <a href="{{auth.url}}">{{ auth.name }}</a>{% if forloop.index == pub.Co_Auth_number-2 %}, and {% elsif forloop.index == pub.Co_Auth_number-1 %}.{% else %}, {% endif %}
+              <a href="{{auth.url}}">{{ auth.name }}</a>{% if forloop.index == pub.Co_Auth_number-1 %}, and {% elsif forloop.index == pub.Co_Auth_number %}.{% else %}, {% endif %}
             {% endfor %}
           </div>
           <div class="contents">
