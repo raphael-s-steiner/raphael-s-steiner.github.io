@@ -26,11 +26,12 @@
       .contents{
         margin: 12px 0px 0px 0px;
         padding: 10px;
-        height: auto;
+        max-height: 200px;
         border: none;
         border-radius: 7px;
         background-color: $gray-100;
-        transition: all .5s ease 0s;
+        transition: all 1s linear 0s;
+        overflow: hidden;
       }
 
       &:hover {
