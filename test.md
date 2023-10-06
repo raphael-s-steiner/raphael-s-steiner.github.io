@@ -1,6 +1,6 @@
 ---
-layout: publist
+layout: page
 background: grey
 ---
 
-# Publications
+{% include publications.html %}

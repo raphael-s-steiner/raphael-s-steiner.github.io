@@ -1,0 +1,40 @@
+<!-- Publications -->
+{% if site.locale and site.locale != "" and site.locale != nil %}
+<section class="bg-light page-section publications" id="{{ site.data.sitetext[site.locale].publications.section | default: "publications" }}">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading text-uppercase">{{ site.data.sitetext[site.locale].publications.title | markdownify | default: "Publications" }}</h2>
+      </div>
+    </div>
+    <div class="expandable-boxes">
+	     {% for pub in site.data.sitetext[site.locale].publications.list %}
+       <div class="row">
+         <div class="col-lg-12 pub-item">
+           <div class="expandable-box">
+             <p class="">{{ pub.pre }}{{ pub.title }}</p>
+           </div>
+         </div>
+       </div>
+	{% endfor %}
+    </div>
+  </div>
+</section>
+{% else %}
+<section class="bg-light page-section publications" id="{{ site.data.sitetext[site.locale].publications.section | default: "publications" }}">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading text-uppercase">{{ site.data.sitetext[site.locale].publications.title | markdownify | default: "Publications" }}</h2>
+      </div>
+    </div>
+    <div class="row">
+	{% for pub in site.data.sitetext[site.locale].publications.list %}
+      <div class="col-lg-12 pub-item">
+        <p class="">{{ pub.pre }}{{ pub.title }}</p>
+      </div>
+	{% endfor %}
+    </div>
+  </div>
+</section>
+{% include modals.html %}

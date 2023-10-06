@@ -15,10 +15,3 @@ document.getElementById("page-top").className="bg-light";
 <div class="container" id="pagecontainer">
 {{ content }}
 </div>
-
-<!-- Highlights the navbar also on other pages -->
-<script>
-var page_stripped = window.location.href.replace("{{ site.url }}", "").replace("/", "").split("/");
-var element = document.getElementById("nav-bar-"+page_stripped[0]);
-element.classList.add("page-nav-highlight");
-</script>
