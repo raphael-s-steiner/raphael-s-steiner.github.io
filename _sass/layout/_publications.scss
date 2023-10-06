@@ -42,13 +42,15 @@
         transition: transform .4s ease 0s;
       }
 
-      &.open {
-
-      }
-
       &.closed {
         .contents{
+          margin: 12px 0px 0px 0px;
+          padding: 10px;
+          transition: all .3 ease 0s;
+          border: 2px solid inherit;
           height: 0;
+          background-color: $gray-100;
+          transition: all .4s ease 0s;
           overflow: hidden;
 //          opacity: 0;
         }
