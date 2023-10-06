@@ -11,15 +11,15 @@
       <div class="expandable-boxes">
         {% for pub in site.data.sitetext[site.locale].publications.list %}
         <div class="expandable-box closed">
-          <h3 class="">
+          <h4 class="subheading">
             {{ pub.pre }}{{ pub.title }}
-          </h3>
-          <h4 class="text-muted">
+          </h4>
+          <div class="text-muted">
             {{ pub.Co_Auth_text }}
             {% for auth in pub.Co_Auth %}
               <a href="{{auth.url}}">{{ auth.name }}</a>
             {% endfor %}
-          </h4>
+          </div>
           <div class="contents">
             <p> This should be hidden </p>
           </div>
