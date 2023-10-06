@@ -192,6 +192,7 @@ en: &DEFAULT_EN
           - name: "Igor E. Shparlinski"
             url: https://web.maths.unsw.edu.au/~igorshparlinski/
       - title: "Small diameters and generators for arithmetic lattices in $\\mathrm{SL}_2(\\mathbb{R})$ and certain Ramanujan graphs"
+        abstract: "We show that arithmetic lattices in $\\mathrm{SL}_2(\\mathbb{R})$, stemming from the proper units of an Eichler order in an indefinite quaternion algebra over $\\mathbb{Q}$, admit a `small' covering set. In particular, we give bounds on the diameter if the quotient space is co-compact. Consequently, we show that these lattices admit small generators. Our techniques also apply to definite quaternion algebras where we show Ramanujan-strength bounds on the diameter of certain Ramanujan graphs without the use of the Ramanujan bound."
         ArXiV_url: https://arxiv.org/abs/2207.12684
         journal:
           name: "The Ramanujan Journal (2023)"
@@ -200,6 +201,7 @@ en: &DEFAULT_EN
         Co_Auth_text: ""
         Co_Auth:
       - title: "Theta functions, fourth moments of eigenforms, and the sup-norm problem II"
+        abstract: "For an $L^2$-normalized holomorphic newform $f$ of weight $k$ on a hyperbolic surface of volume $V$ attached to an Eichler order of squarefree level in an indefinite quaternion algebra over $\\mathbb{Q}$, we prove the sup-norm estimate $\\Vert \\mathrm{Im}(\\cdot)f \\Vert_{\\infty} \\ll_{\\epsilon} (kV)^{\\frac{1}{4}+\\epsilon}$ with absolute implied constant. For a cuspidal Maaß newform $\\varphi$ of eigenvalue $\\lambda$ on such a surface, we prove that $\\Vert \\varphi \\Vert_{\\infty} \\ll_{\\lambda,\\epsilon} V^{\\frac{1}{4}+\\epsilon}$. We establish analogous estimates in the setting of definite quaternion algebras."
         ArXiV_url: https://arxiv.org/abs/2207.12351
         journal:
           name:
@@ -212,6 +214,7 @@ en: &DEFAULT_EN
           - name: "Paul D. Nelson"
             url: https://pure.au.dk/portal/en/paul.nelson@math.au.dk
       - title: "Theta functions, fourth moments of eigenforms, and the sup-norm problem I"
+        abstract: "We give sharp point-wise bounds in the weight-aspect on fourth moments of modular forms on arithmetic hyperbolic surfaces associated to Eichler orders. Thereby, we strengthen a result of Xia and extend it to co-compact lattices. We realize this fourth moment by constructing a holomorphic theta kernel on $\\mathbf{G} \\times \\mathbf{G} \\times \\mathbf{SL}_{2}$, for $\\mathbf{G}$ an indefinite inner-form of $\\mathbf{SL}_2$ over $\\mathbb{Q}$, based on the Bergman kernel, and considering its $L^2$-norm in the Weil variable. The constructed theta kernel further gives rise to new elementary theta series for integral quadratic forms of signature $(2,2)$."
         ArXiV_url: https://arxiv.org/abs/2009.07194
         journal:
           name:
@@ -222,6 +225,7 @@ en: &DEFAULT_EN
           - name: "Ilya Khayutin"
             url: https://khayutin.github.io/
       - title: "Sup-norm of Hecke-Laplace Eigenforms on $S^3$"
+        abstract: "We prove sub-convex bounds on the fourth moment of Hecke-Laplace eigenforms on $S^3$. As a corollary, we get a bound on the sup-norm on an individual eigenform, which constitutes an improvement over what is achievable through employing the Iwaniec-Sarnak amplifier."
         ArXiV_url: https://arxiv.org/abs/1811.03949
         journal:
           name: Mathematische Annalen 377 (2020)
@@ -230,6 +234,7 @@ en: &DEFAULT_EN
         Co_Auth_text: ""
         Co_Auth:
       - title: "The harmonic conjunction of automorphic forms and the Hardy-Littlewood circle method"
+        abstract: "The delta symbol circle method is applied to the problem of equidistribution of rational points on shrinking sets of the 3-sphere. This leads to a correlation sum of Kloosterman sums and an exponential function also known as the twisted Linnik–Selberg conjecture, which is further analysed by means of the Kuznetsov trace formula. Furthermore, the circle method in the guise of Wooley’s efficient congruencing machinery is employed in an effective manner to obtain effective bounds on Vinogradov’s mean value theorem"
         ArXiv_alt: "Download"
         ArXiV_url: ./Thesis_Hard_Bound.pdf
         journal:
@@ -239,6 +244,7 @@ en: &DEFAULT_EN
         Co_Auth_text: "Ph.D. thesis at the University of Bristol."
         Co_Auth:
       - title: "On a twisted version of Linnik and Selberg&rsquo;s conjecture"
+        abstract: "We generalise the work of Sarnak-Tsimerman to twisted sums of Kloosterman sums and thus give evidence towards the twisted Linnik-Selberg Conjecture."
         ArXiV_url: https://arxiv.org/abs/1707.02113
         journal:
           name: "Mathematika 65 (2019), 437-474"
@@ -247,6 +253,7 @@ en: &DEFAULT_EN
         Co_Auth_text: ""
         Co_Auth:
       - title: "A conjectural extension of Hecke's converse theorem"
+        abstract: "We formulate a precise conjecture that, if true, extends the converse theorem of Hecke without requiring hypotheses on twists by Dirichlet characters or an Euler product. The main idea is to linearize the Euler product, replacing it by twists by Ramanujan sums. We provide evidence for the conjecture, including proofs of some special cases and under various additional hypotheses."
         ArXiV_url: https://arxiv.org/abs/1704.02570
         journal:
           name: "The Ramanujan Journal 47 (2018)"
@@ -271,6 +278,7 @@ en: &DEFAULT_EN
           - name: "David J. Platt"
             url: https://people.maths.bris.ac.uk/~madjp/
       - title: "Twisted Linnik implies optimal covering exponent for $S^3$"
+        abstract: "We show that a twisted variant of Linnik's conjecture on sums of Kloosterman sums leads to an optimal covering exponent for $S^3$."
         ArXiV_url: https://arxiv.org/abs/1609.06097
         journal:
           name: Int. Math. Res. Not., Vol. 2019 1
@@ -283,6 +291,7 @@ en: &DEFAULT_EN
           - name: "V. Vinay Kumaraswamy"
             url: https://scholar.google.at/citations?user=FhNwBeQAAAAJ&hl=de
       - title: "Near Counterexamples to Weil&rsquo;s Converse Theorem"
+        abstract: "We show that in Weil's converse theorem the functional equations of multiplicative twists for at least the first $\\sqrt{\\frac{p-24}{3}}$ moduli are needed in order to prove the modularity for $\\Gamma_0(p)$."
         ArXiV_url: http://arxiv.org/abs/1606.06923
         journal:
           name: "Journal de Th&eacute;orie des Nombres de Bordeaux, Vol. 31, No. 2 (2019), 313-321"
@@ -291,6 +300,7 @@ en: &DEFAULT_EN
         Co_Auth_text: ""
         Co_Auth:
       - title: "Effective Vinogradov&rsquo;s mean value theorem via efficient boxing"
+        abstract: "We combine Wooley's efficient congruencing method with earlier work of Vinogradov and Hua to get effective bounds on Vinogradov's mean value theorem."
         ArXiV_url: http://arxiv.org/abs/1603.02536
         journal:
           name: "Journal of Number Theory 204 (2019), 354-404"
@@ -299,6 +309,7 @@ en: &DEFAULT_EN
         Co_Auth_text: ""
         Co_Auth:
       - title: "Supnorm of Modular Forms of half-integral Weight in the Weight Aspect"
+        abstract: "We bound the supnorm of half-integral weight Hecke eigenforms in the Kohnen plus space of level 4 in the weight aspect, by combining bounds obtained from the Fourier expansion with the amplification method using a Bergman kernel."
         ArXiV_url: http://arxiv.org/abs/1504.08246
         journal:
           name: "Acta Arithmetica 177 (2017), 201-218"
@@ -307,6 +318,7 @@ en: &DEFAULT_EN
         Co_Auth_text: ""
         Co_Auth:
       - title: "Uniform bounds on sup-norms of holomorphic forms of real weight"
+        abstract: "We establish uniform bounds for the sup-norms of modular forms of arbitrary real weight $k$ with respect to a finite index subgroup $\\Gamma$ of $\\mathrm{SL}_2(\\mathbb{Z})$. We also prove corresponding bounds for the supremum over a compact set. We achieve this by extending to a sum over an orthonormal basis $\\sum_j y^k |f_j(z)|^2$ and analysing this sum by means of a Bergman kernel and the Fourier coefficients of Poincaré series. As such our results are valid without any assumption that the forms are Hecke eigenfunctions. Under some weak assumptions we further prove the right order of magnitude of $\\sup_{z \\in \\mathbb{H}} \\sum_j |f_j(z)|^2$."
         ArXiV_url: http://arxiv.org/abs/1406.2918
         journal:
           name: "Int. J. Number Theory 12 (2016), 1163-1185"
