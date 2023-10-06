@@ -14,7 +14,7 @@
           <h6 class="subheading">
             {{ pub.pre }}{{ pub.title }}
           </h6>
-          <div class="text-left text-muted p-b-5">
+          <div class="text-left text-muted">
             {{ pub.Co_Auth_text }}
             {% for auth in pub.Co_Auth %}
               <a href="{{auth.url}}">{{ auth.name }}</a>{% if forloop.rindex == 2 %}, and {% elsif forloop.rindex == 1 %}.{% else %}, {% endif %}
