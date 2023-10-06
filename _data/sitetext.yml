@@ -247,7 +247,7 @@ en: &DEFAULT_EN
         abstract: "We generalise the work of Sarnak-Tsimerman to twisted sums of Kloosterman sums and thus give evidence towards the twisted Linnik-Selberg Conjecture."
         arXiv_url: https://arxiv.org/abs/1707.02113
         journal:
-          name: "Mathematika 65 (2019), 437-474"
+          name: "Mathematika 65 (2019)"
           status: "published"
           url: http://dx.doi.org/10.1112/S0025579318000542
         Co_Auth_text: ""
@@ -281,7 +281,7 @@ en: &DEFAULT_EN
         abstract: "We show that a twisted variant of Linnik's conjecture on sums of Kloosterman sums leads to an optimal covering exponent for $S^3$."
         arXiv_url: https://arxiv.org/abs/1609.06097
         journal:
-          name: Int. Math. Res. Not., Vol. 2019 1
+          name: International Mathematics Research Notices 1 (2019)
           status: "published"
           url: https://academic.oup.com/imrn/article/doi/10.1093/imrn/rnx116/3871415/Twisted-Linnik-implies-Optimal-Covering-Exponent?guestAccessKey=2a38d1c6-95b4-457a-b02f-0649773f22ff
         Co_Auth_text: "joint with "
@@ -294,7 +294,7 @@ en: &DEFAULT_EN
         abstract: "We show that in Weil's converse theorem the functional equations of multiplicative twists for at least the first $\\sqrt{\\frac{p-24}{3}}$ moduli are needed in order to prove the modularity for $\\Gamma_0(p)$."
         arXiv_url: http://arxiv.org/abs/1606.06923
         journal:
-          name: "Journal de Th&eacute;orie des Nombres de Bordeaux, Vol. 31, No. 2 (2019), 313-321"
+          name: "Journal de Th&eacute;orie des Nombres de Bordeaux 31 2 (2019)"
           status: "published"
           url: https://doi.org/10.5802/jtnb.1082
         Co_Auth_text: ""
@@ -303,7 +303,7 @@ en: &DEFAULT_EN
         abstract: "We combine Wooley's efficient congruencing method with earlier work of Vinogradov and Hua to get effective bounds on Vinogradov's mean value theorem."
         arXiv_url: http://arxiv.org/abs/1603.02536
         journal:
-          name: "Journal of Number Theory 204 (2019), 354-404"
+          name: "Journal of Number Theory 204 (2019)"
           status: "published"
           url: https://doi.org/10.1016/j.jnt.2019.04.010
         Co_Auth_text: ""
@@ -312,7 +312,7 @@ en: &DEFAULT_EN
         abstract: "We bound the supnorm of half-integral weight Hecke eigenforms in the Kohnen plus space of level $4$ in the weight aspect, by combining bounds obtained from the Fourier expansion with the amplification method using a Bergman kernel."
         arXiv_url: http://arxiv.org/abs/1504.08246
         journal:
-          name: "Acta Arithmetica 177 (2017), 201-218"
+          name: "Acta Arithmetica 177 (2017)"
           status: "published"
           url: https://doi.org/10.4064/aa8175-8-2016
         Co_Auth_text: ""
@@ -321,7 +321,7 @@ en: &DEFAULT_EN
         abstract: "We establish uniform bounds for the sup-norms of modular forms of arbitrary real weight $k$ with respect to a finite index subgroup $\\Gamma$ of $\\mathrm{SL}_2(\\mathbb{Z})$. We also prove corresponding bounds for the supremum over a compact set. We achieve this by extending to a sum over an orthonormal basis $\\sum_j y^k |f_j(z)|^2$ and analysing this sum by means of a Bergman kernel and the Fourier coefficients of Poincaré series. As such our results are valid without any assumption that the forms are Hecke eigenfunctions. Under some weak assumptions we further prove the right order of magnitude of $\\sup_{z \\in \\mathbb{H}} \\sum_j |f_j(z)|^2$."
         arXiv_url: http://arxiv.org/abs/1406.2918
         journal:
-          name: "Int. J. Number Theory 12 (2016), 1163-1185"
+          name: "International Journal of Number Theory 12 (2016)"
           status: "published"
           url: https://doi.org/10.1142/S1793042116500718
         Co_Auth_text: ""
