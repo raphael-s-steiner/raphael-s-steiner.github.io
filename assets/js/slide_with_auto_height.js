@@ -49,7 +49,7 @@ function expandSection(element) {
 const exp_boxes = document.querySelectorAll(".expandable-box");
 exp_boxes.forEach((box) => {
   box.addEventListener("click", function(e) {
-    var exp_box = $(this).querySelector(".contents");
+    var exp_box = (this).querySelector(".contents");
 
     if(exp_box.getAttribute('data-collapsed') === "true") {
       expandSection(exp_box)
