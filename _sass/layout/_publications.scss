@@ -13,8 +13,9 @@
     .expandable-box {
       width: 96%;
       height: auto;
-      float: center;
-      margin: 0 3% 20px 0;
+      position: fixed;
+      left: 50%;
+      margin: 0 auto 20px auto;
       border: 2px solid $gray-300;
       border-radius: 15px;
       padding: 10px;
