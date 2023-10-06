@@ -1,39 +1,41 @@
 // Styling for the publications section/page
+.publications {
 
-.expandable-boxes {
-  position: relative;
+  .expandable-boxes {
+    position: relative;
 
-  .expandable-box {
-    width: 96%;
-    height: auto;
-    float: center;
-    margin: 0 3% 20px 0;
-    border: 5px solid #999;
-    border-radius: 12px;
-    padding: 10px;
-    box-sizing: border-box;
-    background-color: $gray-200
-    -webkit-transition: all .3s ease-in-out;
-    -moz-transition: all .3s ease-in-out;
-    -o-transition: all .3s ease-in-out;
-    -ms-transition: all .3s ease-in-out;
-    transition: all .3s ease-in-out;
-
-    &.open {
-      border-color: #dd0000;
+    .expandable-box {
       width: 96%;
-      margin: 0;
-    }
+      height: auto;
+      float: center;
+      margin: 0 3% 20px 0;
+      border: 5px solid #999;
+      border-radius: 12px;
+      padding: 10px;
+      box-sizing: border-box;
+      background-color: $gray-900
+      -webkit-transition: all .3s ease-in-out;
+      -moz-transition: all .3s ease-in-out;
+      -o-transition: all .3s ease-in-out;
+      -ms-transition: all .3s ease-in-out;
+      transition: all .3s ease-in-out;
 
-    &.closed {
-      .contents{
-        width: 0;
-        height: 0;
-        overflow: hidden;
-        border: none;
-        padding: 0;
+      &.open {
+        border-color: #dd0000;
+        width: 96%;
         margin: 0;
-        opacity: 0;
+      }
+
+      &.closed {
+        .contents{
+          width: 0;
+          height: 0;
+          overflow: hidden;
+          border: none;
+          padding: 0;
+          margin: 0;
+          opacity: 0;
+        }
       }
     }
   }
