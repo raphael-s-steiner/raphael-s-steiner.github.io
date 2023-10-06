@@ -18,12 +18,14 @@
       transition: background-color .4s ease-out 0s, border-color .4s ease 0s, transform .4s ease 0s, height .3s ease 0s, width .3s ease 0s;
 
       .contents{
-        margin: 0 3% 20px 0;
+        margin: 12px 0px 0px 0px;
         padding: 10px;
+        height: auto;
         transition: all .3 ease 0s;
         border: 2px solid inherit;
         border-radius: 7px;
         background-color: $gray-100;
+        transition: all .4s ease 0s;
       }
 
       &:hover {

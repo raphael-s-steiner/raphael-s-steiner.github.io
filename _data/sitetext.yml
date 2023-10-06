@@ -160,7 +160,6 @@ en: &DEFAULT_EN
           name:
           status: "submitted"
           url:
-        Co_Auth_number: 3
         Co_Auth_text: "by "
         Co_Auth:
           - name: "Chan I. Kuan"
@@ -175,7 +174,6 @@ en: &DEFAULT_EN
           name:
           status: "submitted"
           url:
-        Co_Auth_number: 0
         Co_Auth_text: ""
         Co_Auth:
       - title: "Chowla and Sarnak Conjectures for Kloosterman Sums"
@@ -184,7 +182,6 @@ en: &DEFAULT_EN
           name: "Mathematische Nachrichten"
           status: "published"
           url: https://doi.org/10.1002/mana.202200480
-        Co_Auth_number: 2
         Co_Auth_text: "joint with "
         Co_Auth:
           - name: "el Houcein el Abdalaoui"
@@ -197,7 +194,6 @@ en: &DEFAULT_EN
           name: "The Ramanujan Journal (2023)"
           status: "submitted"
           url: https://link.springer.com/article/10.1007/s11139-023-00725-1
-        Co_Auth_number: 0
         Co_Auth_text: ""
         Co_Auth:
       - title: "Theta functions, fourth moments of eigenforms, and the sup-norm problem II"
@@ -206,7 +202,6 @@ en: &DEFAULT_EN
           name:
           status: "submitted"
           url:
-        Co_Auth_number: 2
         Co_Auth_text: "joint with "
         Co_Auth:
           - name: "Ilya Khayutin"
@@ -219,7 +214,6 @@ en: &DEFAULT_EN
           name:
           status: "submitted"
           url:
-        Co_Auth_number: 1
         Co_Auth_text: "joint with "
         Co_Auth:
           - name: "Ilya Khayutin"
@@ -230,7 +224,6 @@ en: &DEFAULT_EN
           name: Mathematische Annalen 377 (2020)
           status: "published"
           url: https://rdcu.be/b32j7
-        Co_Auth_number: 0
         Co_Auth_text: ""
         Co_Auth:
       - title: "The harmonic conjunction of automorphic forms and the Hardy-Littlewood circle method"
@@ -240,7 +233,6 @@ en: &DEFAULT_EN
           name: "EThOS"
           status: "published"
           url: https://ethos.bl.uk/OrderDetails.do?did=1&uin=uk.bl.ethos.752808
-        Co_Auth_number: 0
         Co_Auth_text: "Ph.D. thesis at the University of Bristol."
         Co_Auth:
       - title: "On a twisted version of Linnik and Selberg&rsquo;s conjecture"
@@ -249,7 +241,6 @@ en: &DEFAULT_EN
           name: "Mathematika 65 (2019), 437-474"
           status: "published"
           url: http://dx.doi.org/10.1112/S0025579318000542
-        Co_Auth_number: 0
         Co_Auth_text: ""
         Co_Auth:
       - title: "A conjectural extension of Hecke's converse theorem"
@@ -258,7 +249,6 @@ en: &DEFAULT_EN
           name: "The Ramanujan Journal 47 (2018)"
           status: "published"
           url: https://doi.org/10.1007/s11139-017-9953-y
-        Co_Auth_number: 8
         Co_Auth_text: "joint with "
         Co_Auth:
           - name: "Sandro Bettin"
@@ -283,7 +273,6 @@ en: &DEFAULT_EN
           name: Int. Math. Res. Not., Vol. 2019 1
           status: "published"
           url: https://academic.oup.com/imrn/article/doi/10.1093/imrn/rnx116/3871415/Twisted-Linnik-implies-Optimal-Covering-Exponent?guestAccessKey=2a38d1c6-95b4-457a-b02f-0649773f22ff
-        Co_Auth_number: 2
         Co_Auth_text: "joint with "
         Co_Auth:
           - name: "Tim Browning"
@@ -296,7 +285,6 @@ en: &DEFAULT_EN
           name: "Journal de Th&eacute;orie des Nombres de Bordeaux, Vol. 31, No. 2 (2019), 313-321"
           status: "published"
           url: https://doi.org/10.5802/jtnb.1082
-        Co_Auth_number: 0
         Co_Auth_text: ""
         Co_Auth:
       - title: "Effective Vinogradov&rsquo;s mean value theorem via efficient boxing"
@@ -305,7 +293,6 @@ en: &DEFAULT_EN
           name: "Journal of Number Theory 204 (2019), 354-404"
           status: "published"
           url: https://doi.org/10.1016/j.jnt.2019.04.010
-        Co_Auth_number: 0
         Co_Auth_text: ""
         Co_Auth:
       - title: "Supnorm of Modular Forms of half-integral Weight in the Weight Aspect"
@@ -314,7 +301,6 @@ en: &DEFAULT_EN
           name: "Acta Arithmetica 177 (2017), 201-218"
           status: "published"
           url: https://doi.org/10.4064/aa8175-8-2016
-        Co_Auth_number: 0
         Co_Auth_text: ""
         Co_Auth:
       - title: "Uniform bounds on sup-norms of holomorphic forms of real weight"
@@ -323,7 +309,6 @@ en: &DEFAULT_EN
           name: "Int. J. Number Theory 12 (2016), 1163-1185"
           status: "published"
           url: https://doi.org/10.1142/S1793042116500718
-        Co_Auth_number: 0
         Co_Auth_text: ""
         Co_Auth:
 
