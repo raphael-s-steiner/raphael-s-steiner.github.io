@@ -17,4 +17,4 @@ We show that arithmetic lattices in $\mathrm{SL}_{2}(\mathbb{R})$, stemming from
 #### Links
 
 **[The Ramanujan Journal](https://doi.org/10.1007/s11139-023-00725-1)**  
-**[ArXiv](https://arxiv.org/abs/2207.12684)**  
+**[arXiv](https://arxiv.org/abs/2207.12684)**  

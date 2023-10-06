@@ -94,7 +94,7 @@ en: &DEFAULT_EN
 #      - title: "International Mathematics Olympiad"
 #        url: https://www.imo-official.org/participant_r.aspx?id=15814
 #        logo: assets/img/clients/IMO.gif
-      - title: "ArXiv"
+      - title: "arXiv"
         url: https://arxiv.org/a/steiner_r_1.html
         logo: assets/img/clients/arxiv-logo.svg
 #      - title: "orcid"
@@ -155,8 +155,8 @@ en: &DEFAULT_EN
     list:
       - title: "Sums of Cusp Form Coefficients Along Quadratic Sequences"
         pre: "Appendix to "
-        abstract: "Let $f(z)=\\sum A(n) n^{\\frac{k-1}{2}}e(nz)$ be a cusp form of weight $k \\ge 3$ on $\\Gamma_0(N)$ with character $\\chi$. By studying a certain shifted convolution sum, we prove that $\\sum_{n\\le X}A(n^2+h)=c_{f,h}X +O_{f,h,\\epsilon}(X^{\\frac{3}{4}}+\\epsilon)$ for $\\epsilon>0$, which improves a result of Blomer from 2008 with error $X^{\\frac{6}{7}+\\epsilon}$. This includes an appendix due to Raphael S. Steiner, proving stronger bounds for certain spectral averages."
-        ArXiV_url: https://arxiv.org/abs/2301.11901
+        abstract: "Let $f(z)=\\sum A(n) n^{\\frac{k-1}{2}}e(nz)$ be a cusp form of weight $k \\ge 3$ on $\\Gamma_0(N)$ with character $\\chi$. By studying a certain shifted convolution sum, we prove that $\\sum_{n\\le X}A(n^2+h)=c_{f,h}X +O_{f,h,\\epsilon}(X^{\\frac{3}{4}+\\epsilon})$ for $\\epsilon>0$, which improves a result of Blomer from 2008 with error $X^{\\frac{6}{7}+\\epsilon}$. This includes an appendix due to Raphael S. Steiner, proving stronger bounds for certain spectral averages."
+        arXiv_url: https://arxiv.org/abs/2301.11901
         journal:
           name:
           status: "submitted"
@@ -171,7 +171,7 @@ en: &DEFAULT_EN
             url: https://awwalker.com
       - title: "Kloosterman sums do not correlate with periodic functions"
         abstract: "We provide uniform bounds for sums of Kloosterman sums in all arithmetic progressions. As a consequence, we find that Kloosterman sums do not correlate with periodic functions."
-        ArXiV_url: https://arxiv.org/abs/2302.06409
+        arXiv_url: https://arxiv.org/abs/2302.06409
         journal:
           name:
           status: "submitted"
@@ -180,7 +180,7 @@ en: &DEFAULT_EN
         Co_Auth:
       - title: "Chowla and Sarnak Conjectures for Kloosterman Sums"
         abstract: "We formulate several analogues of the Chowla and Sarnak conjectures, which are widely known in the setting of the Möbius function, in the setting of Kloosterman sums. We then show that for Kloosterman sums, in some cases, these conjectures can be established unconditionally."
-        ArXiV_url: https://arxiv.org/abs/2211.00379
+        arXiv_url: https://arxiv.org/abs/2211.00379
         journal:
           name: "Mathematische Nachrichten"
           status: "published"
@@ -193,7 +193,7 @@ en: &DEFAULT_EN
             url: https://web.maths.unsw.edu.au/~igorshparlinski/
       - title: "Small diameters and generators for arithmetic lattices in $\\mathrm{SL}_2(\\mathbb{R})$ and certain Ramanujan graphs"
         abstract: "We show that arithmetic lattices in $\\mathrm{SL}_2(\\mathbb{R})$, stemming from the proper units of an Eichler order in an indefinite quaternion algebra over $\\mathbb{Q}$, admit a `small' covering set. In particular, we give bounds on the diameter if the quotient space is co-compact. Consequently, we show that these lattices admit small generators. Our techniques also apply to definite quaternion algebras where we show Ramanujan-strength bounds on the diameter of certain Ramanujan graphs without the use of the Ramanujan bound."
-        ArXiV_url: https://arxiv.org/abs/2207.12684
+        arXiv_url: https://arxiv.org/abs/2207.12684
         journal:
           name: "The Ramanujan Journal (2023)"
           status: "submitted"
@@ -201,8 +201,8 @@ en: &DEFAULT_EN
         Co_Auth_text: ""
         Co_Auth:
       - title: "Theta functions, fourth moments of eigenforms, and the sup-norm problem II"
-        abstract: "For an $L^2$-normalized holomorphic newform $f$ of weight $k$ on a hyperbolic surface of volume $V$ attached to an Eichler order of squarefree level in an indefinite quaternion algebra over $\\mathbb{Q}$, we prove the sup-norm estimate $\\Vert \\mathrm{Im}(\\cdot)f \\Vert_{\\infty} \\ll_{\\epsilon} (kV)^{\\frac{1}{4}+\\epsilon}$ with absolute implied constant. For a cuspidal Maaß newform $\\varphi$ of eigenvalue $\\lambda$ on such a surface, we prove that $\\Vert \\varphi \\Vert_{\\infty} \\ll_{\\lambda,\\epsilon} V^{\\frac{1}{4}+\\epsilon}$. We establish analogous estimates in the setting of definite quaternion algebras."
-        ArXiV_url: https://arxiv.org/abs/2207.12351
+        abstract: "For an $L^2$-normalized holomorphic newform $f$ of weight $k$ on a hyperbolic surface of volume $V$ attached to an Eichler order of squarefree level in an indefinite quaternion algebra over $\\mathbb{Q}$, we prove the sup-norm estimate $\\Vert \\mathrm{Im}(\\cdot)^{\\frac{k}{2}}f \\Vert_{\\infty} \\ll_{\\epsilon} (kV)^{\\frac{1}{4}+\\epsilon}$ with absolute implied constant. For a cuspidal Maaß newform $\\varphi$ of eigenvalue $\\lambda$ on such a surface, we prove that $\\Vert \\varphi \\Vert_{\\infty} \\ll_{\\lambda,\\epsilon} V^{\\frac{1}{4}+\\epsilon}$. We establish analogous estimates in the setting of definite quaternion algebras."
+        arXiv_url: https://arxiv.org/abs/2207.12351
         journal:
           name:
           status: "submitted"
@@ -215,7 +215,7 @@ en: &DEFAULT_EN
             url: https://pure.au.dk/portal/en/paul.nelson@math.au.dk
       - title: "Theta functions, fourth moments of eigenforms, and the sup-norm problem I"
         abstract: "We give sharp point-wise bounds in the weight-aspect on fourth moments of modular forms on arithmetic hyperbolic surfaces associated to Eichler orders. Thereby, we strengthen a result of Xia and extend it to co-compact lattices. We realize this fourth moment by constructing a holomorphic theta kernel on $\\mathbf{G} \\times \\mathbf{G} \\times \\mathbf{SL}_{2}$, for $\\mathbf{G}$ an indefinite inner-form of $\\mathbf{SL}_2$ over $\\mathbb{Q}$, based on the Bergman kernel, and considering its $L^2$-norm in the Weil variable. The constructed theta kernel further gives rise to new elementary theta series for integral quadratic forms of signature $(2,2)$."
-        ArXiV_url: https://arxiv.org/abs/2009.07194
+        arXiv_url: https://arxiv.org/abs/2009.07194
         journal:
           name:
           status: "submitted"
@@ -226,7 +226,7 @@ en: &DEFAULT_EN
             url: https://khayutin.github.io/
       - title: "Sup-norm of Hecke-Laplace Eigenforms on $S^3$"
         abstract: "We prove sub-convex bounds on the fourth moment of Hecke-Laplace eigenforms on $S^3$. As a corollary, we get a bound on the sup-norm on an individual eigenform, which constitutes an improvement over what is achievable through employing the Iwaniec-Sarnak amplifier."
-        ArXiV_url: https://arxiv.org/abs/1811.03949
+        arXiv_url: https://arxiv.org/abs/1811.03949
         journal:
           name: Mathematische Annalen 377 (2020)
           status: "published"
@@ -235,8 +235,8 @@ en: &DEFAULT_EN
         Co_Auth:
       - title: "The harmonic conjunction of automorphic forms and the Hardy-Littlewood circle method"
         abstract: "The delta symbol circle method is applied to the problem of equidistribution of rational points on shrinking sets of the 3-sphere. This leads to a correlation sum of Kloosterman sums and an exponential function also known as the twisted Linnik–Selberg conjecture, which is further analysed by means of the Kuznetsov trace formula. Furthermore, the circle method in the guise of Wooley’s efficient congruencing machinery is employed in an effective manner to obtain effective bounds on Vinogradov’s mean value theorem"
-        ArXiv_alt: "Download"
-        ArXiV_url: ./Thesis_Hard_Bound.pdf
+        arXiv_alt: "Download"
+        arXiv_url: ./Thesis_Hard_Bound.pdf
         journal:
           name: "EThOS"
           status: "published"
@@ -245,7 +245,7 @@ en: &DEFAULT_EN
         Co_Auth:
       - title: "On a twisted version of Linnik and Selberg&rsquo;s conjecture"
         abstract: "We generalise the work of Sarnak-Tsimerman to twisted sums of Kloosterman sums and thus give evidence towards the twisted Linnik-Selberg Conjecture."
-        ArXiV_url: https://arxiv.org/abs/1707.02113
+        arXiv_url: https://arxiv.org/abs/1707.02113
         journal:
           name: "Mathematika 65 (2019), 437-474"
           status: "published"
@@ -254,7 +254,7 @@ en: &DEFAULT_EN
         Co_Auth:
       - title: "A conjectural extension of Hecke's converse theorem"
         abstract: "We formulate a precise conjecture that, if true, extends the converse theorem of Hecke without requiring hypotheses on twists by Dirichlet characters or an Euler product. The main idea is to linearize the Euler product, replacing it by twists by Ramanujan sums. We provide evidence for the conjecture, including proofs of some special cases and under various additional hypotheses."
-        ArXiV_url: https://arxiv.org/abs/1704.02570
+        arXiv_url: https://arxiv.org/abs/1704.02570
         journal:
           name: "The Ramanujan Journal 47 (2018)"
           status: "published"
@@ -279,7 +279,7 @@ en: &DEFAULT_EN
             url: https://people.maths.bris.ac.uk/~madjp/
       - title: "Twisted Linnik implies optimal covering exponent for $S^3$"
         abstract: "We show that a twisted variant of Linnik's conjecture on sums of Kloosterman sums leads to an optimal covering exponent for $S^3$."
-        ArXiV_url: https://arxiv.org/abs/1609.06097
+        arXiv_url: https://arxiv.org/abs/1609.06097
         journal:
           name: Int. Math. Res. Not., Vol. 2019 1
           status: "published"
@@ -292,7 +292,7 @@ en: &DEFAULT_EN
             url: https://scholar.google.at/citations?user=FhNwBeQAAAAJ&hl=de
       - title: "Near Counterexamples to Weil&rsquo;s Converse Theorem"
         abstract: "We show that in Weil's converse theorem the functional equations of multiplicative twists for at least the first $\\sqrt{\\frac{p-24}{3}}$ moduli are needed in order to prove the modularity for $\\Gamma_0(p)$."
-        ArXiV_url: http://arxiv.org/abs/1606.06923
+        arXiv_url: http://arxiv.org/abs/1606.06923
         journal:
           name: "Journal de Th&eacute;orie des Nombres de Bordeaux, Vol. 31, No. 2 (2019), 313-321"
           status: "published"
@@ -301,7 +301,7 @@ en: &DEFAULT_EN
         Co_Auth:
       - title: "Effective Vinogradov&rsquo;s mean value theorem via efficient boxing"
         abstract: "We combine Wooley's efficient congruencing method with earlier work of Vinogradov and Hua to get effective bounds on Vinogradov's mean value theorem."
-        ArXiV_url: http://arxiv.org/abs/1603.02536
+        arXiv_url: http://arxiv.org/abs/1603.02536
         journal:
           name: "Journal of Number Theory 204 (2019), 354-404"
           status: "published"
@@ -309,8 +309,8 @@ en: &DEFAULT_EN
         Co_Auth_text: ""
         Co_Auth:
       - title: "Supnorm of Modular Forms of half-integral Weight in the Weight Aspect"
-        abstract: "We bound the supnorm of half-integral weight Hecke eigenforms in the Kohnen plus space of level 4 in the weight aspect, by combining bounds obtained from the Fourier expansion with the amplification method using a Bergman kernel."
-        ArXiV_url: http://arxiv.org/abs/1504.08246
+        abstract: "We bound the supnorm of half-integral weight Hecke eigenforms in the Kohnen plus space of level $4$ in the weight aspect, by combining bounds obtained from the Fourier expansion with the amplification method using a Bergman kernel."
+        arXiv_url: http://arxiv.org/abs/1504.08246
         journal:
           name: "Acta Arithmetica 177 (2017), 201-218"
           status: "published"
@@ -319,7 +319,7 @@ en: &DEFAULT_EN
         Co_Auth:
       - title: "Uniform bounds on sup-norms of holomorphic forms of real weight"
         abstract: "We establish uniform bounds for the sup-norms of modular forms of arbitrary real weight $k$ with respect to a finite index subgroup $\\Gamma$ of $\\mathrm{SL}_2(\\mathbb{Z})$. We also prove corresponding bounds for the supremum over a compact set. We achieve this by extending to a sum over an orthonormal basis $\\sum_j y^k |f_j(z)|^2$ and analysing this sum by means of a Bergman kernel and the Fourier coefficients of Poincaré series. As such our results are valid without any assumption that the forms are Hecke eigenfunctions. Under some weak assumptions we further prove the right order of magnitude of $\\sup_{z \\in \\mathbb{H}} \\sum_j |f_j(z)|^2$."
-        ArXiV_url: http://arxiv.org/abs/1406.2918
+        arXiv_url: http://arxiv.org/abs/1406.2918
         journal:
           name: "Int. J. Number Theory 12 (2016), 1163-1185"
           status: "published"

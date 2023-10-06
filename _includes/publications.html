@@ -21,7 +21,19 @@
             {% endfor %}
           </div>
           <div class="contents">
-            {{ pub.abstract }}
+            <div class="container">
+              <div class="row">
+                {{ pub.abstract }}
+              </div>
+              <div class="row">
+                <div class="col-sm-4">
+                  <a href="{{ pub.arXiv_url }}">arXiv</a>
+                </div>
+                <div class="col-sm-4">
+                  {% if pub.journal.status == "published" %}<a href="pub.journal.url">{{ pub.journal.name }}</a>{% endif %}
+                </div>
+              </div>
+            </div>
           </div>
         </div>
         {% endfor %}
