@@ -28,10 +28,12 @@
                 </div>
               </div>
               <div class="row">
-                <div class="col-sm-4">
+                <div class="col-sm-4 text-center">
                   <a href="{{ pub.arXiv_url }}">arXiv</a>
                 </div>
                 <div class="col-sm-4">
+                </div>
+                <div class="col-sm-4 text-center">
                   {% if pub.journal.status == "published" %}<a href="pub.journal.url">{{ pub.journal.name }}</a>{% endif %}
                 </div>
               </div>
