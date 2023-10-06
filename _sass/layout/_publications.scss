@@ -1,7 +1,7 @@
 // Styling for the publications section/page
 .publications {
 
-  h2.section-heading{
+  h2.section-heading {
 //    font-size: 40px;
     margin-top: 0;
     margin-bottom: 15px;
@@ -48,7 +48,6 @@
 
       &.closed {
         .contents{
-          width: 0;
           height: 0;
           overflow: hidden;
           border: none;
