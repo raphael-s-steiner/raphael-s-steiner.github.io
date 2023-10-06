@@ -241,7 +241,7 @@ en: &DEFAULT_EN
           status: "published"
           url: https://ethos.bl.uk/OrderDetails.do?did=1&uin=uk.bl.ethos.752808
         Co_Auth_number: 0
-        Co_Auth_text: "Ph.D. thesis"
+        Co_Auth_text: "Ph.D. thesis at the University of Bristol."
         Co_Auth:
       - title: "On a twisted version of Linnik and Selberg&rsquo;s conjecture"
         ArXiV_url: https://arxiv.org/abs/1707.02113

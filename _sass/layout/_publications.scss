@@ -9,7 +9,7 @@
       height: auto;
       float: center;
       margin: 0 3% 20px 0;
-      border: 4px solid $gray-200;
+      border: 2px solid $gray-200;
       border-radius: 15px;
       padding: 10px;
       box-sizing: border-box;
@@ -18,9 +18,11 @@
 
       .contents{
         padding: 10px;
-        transition: height .3 ease 0s;
-        border: 4px solid $gray-200;
+        transition: all .3 ease 0s;
+        border: 2px solid inherit;
+        border-radius: inherit;
         background-color: $gray-100;
+        }
       }
 
       &:hover {
