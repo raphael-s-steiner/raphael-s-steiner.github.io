@@ -11,9 +11,12 @@
       <div class="expandable-boxes">
         {% for pub in site.data.sitetext[site.locale].publications.list %}
         <div class="expandable-box closed">
-          <p>
+          <h3 class="">
             {{ pub.pre }}{{ pub.title }}
-          </p>
+          </h3>
+          <h4 class="text-muted">
+            joint with
+          </h4>
           <div class="contents">
             <p> This should be hidden </p>
           </div>
