@@ -5,7 +5,7 @@
 
   .expandable-box {
     width: 96%;
-    height: 130px;
+    height: auto;
     float: center;
     margin: 0 3% 20px 0;
     border: 5px solid #999;
@@ -22,7 +22,6 @@
     &.open {
       border-color: #dd0000;
       width: 96%;
-      height: 180px;
       margin: 0;
     }
 
