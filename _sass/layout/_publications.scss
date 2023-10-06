@@ -24,11 +24,11 @@
 
       .contents{
         margin: 12px 0px 0px 0px;
-        max-height: 200px;
+        height: 0px;
         border: none;
         border-radius: 7px;
         background-color: $gray-100;
-        transition: max-height .8s linear 0s, padding 0.04s linear 0s;
+        transition: height .4s ease 0s;
         overflow: hidden;
         .container .row {
           padding: 10px 0px;
@@ -48,7 +48,7 @@
 
       &.closed {
         .contents{
-          max-height: 0;
+          height: 0;
           overflow: hidden;
 //          opacity: 0;
         }

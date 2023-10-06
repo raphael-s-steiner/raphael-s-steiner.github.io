@@ -196,7 +196,7 @@ en: &DEFAULT_EN
         arXiv_url: https://arxiv.org/abs/2207.12684
         journal:
           name: "The Ramanujan Journal (2023)"
-          status: "submitted"
+          status: "published"
           url: https://link.springer.com/article/10.1007/s11139-023-00725-1
         Co_Auth_text: ""
         Co_Auth:
@@ -318,7 +318,7 @@ en: &DEFAULT_EN
         Co_Auth_text: ""
         Co_Auth:
       - title: "Uniform bounds on sup-norms of holomorphic forms of real weight"
-        abstract: "We establish uniform bounds for the sup-norms of modular forms of arbitrary real weight $k$ with respect to a finite index subgroup $\\Gamma$ of $\\mathrm{SL}_2(\\mathbb{Z})$. We also prove corresponding bounds for the supremum over a compact set. We achieve this by extending to a sum over an orthonormal basis $\\sum_j y^k |f_j(z)|^2$ and analysing this sum by means of a Bergman kernel and the Fourier coefficients of Poincaré series. As such our results are valid without any assumption that the forms are Hecke eigenfunctions. Under some weak assumptions we further prove the right order of magnitude of $\\sup_{z \\in \\mathbb{H}} \\sum_j |f_j(z)|^2$."
+        abstract: "We establish uniform bounds for the sup-norms of modular forms of arbitrary real weight $k$ with respect to a finite index subgroup $\\Gamma$ of $\\mathrm{SL}_2(\\mathbb{Z})$. We also prove corresponding bounds for the supremum over a compact set. We achieve this by extending to a sum over an orthonormal basis $\\sum_j y^k |f_j(z)|^2$ and analysing this sum by means of a Bergman kernel and the Fourier coefficients of Poincaré series. As such our results are valid without any assumption that the forms are Hecke eigenfunctions. Under some weak assumptions we further prove the right order of magnitude of $\\sup_{z \\in \\mathbb{H}} \\sum_j y^k |f_j(z)|^2$."
         arXiv_url: http://arxiv.org/abs/1406.2918
         journal:
           name: "International Journal of Number Theory 12 (2016)"
