@@ -3,7 +3,7 @@
 function collapseSection(element) {
   // get the height of the element's inner content, regardless of its actual size
   var sectionHeight = element.scrollHeight;
-
+  
   // temporarily disable all css transitions
   var elementTransition = element.style.transition;
   element.style.transition = '';
@@ -12,13 +12,13 @@ function collapseSection(element) {
   // explicitly set the element's height to its current pixel height, so we
   // aren't transitioning out of 'auto'
   requestAnimationFrame(function() {
-    element.style.height = sectionHeight + 'px';
+    element.style.height = sectionHeight + "px";
     element.style.transition = elementTransition;
 
     // on the next frame (as soon as the previous style change has taken effect),
     // have the element transition to height: 0
     requestAnimationFrame(function() {
-      element.style.height = 0 + 'px';
+      element.style.height = "0px";
     });
   });
 
@@ -31,7 +31,7 @@ function expandSection(element) {
   var sectionHeight = element.scrollHeight;
 
   // have the element transition to the height of its inner content
-  element.style.height = sectionHeight + 'px';
+  element.style.height = sectionHeight + "px";
 
   // when the next css transition finishes (which should be the one we just triggered)
   element.addEventListener('transitionend', function(e) {
@@ -39,7 +39,7 @@ function expandSection(element) {
     element.removeEventListener('transitionend', arguments.callee);
 
     // remove "height" from the element's inline styles, so it can return to its initial value
-    element.style.height = null;
+    element.style.height = "auto";
   });
 
   // mark the section as "currently not collapsed"
@@ -53,7 +53,7 @@ exp_boxes.forEach((box) => {
 
     if(exp_box.getAttribute('data-collapsed') === "true") {
       expandSection(exp_box)
-      section.setAttribute('data-collapsed', "false")
+      exp_box.setAttribute('data-collapsed', "false")
     } else {
       collapseSection(exp_box)
     }
