@@ -15,12 +15,12 @@
                 <h6 class="subheading">
                   <span style="font-weight: 400;">{{ pub.pre }}</span>{{ pub.title }}
                 </h6>
-              </div>
-              <div class="text-left text-muted">
-                {{ pub.Co_Auth_text }}
-                {% for auth in pub.Co_Auth %}
-                  <a href="{{auth.url}}">{{ auth.name }}</a>{% if forloop.rindex == 2 %}, and {% elsif forloop.rindex == 1 %}.{% else %}, {% endif %}
-                {% endfor %}
+                <div class="text-left text-muted">
+                  {{ pub.Co_Auth_text }}
+                  {% for auth in pub.Co_Auth %}
+                    <a href="{{auth.url}}">{{ auth.name }}</a>{% if forloop.rindex == 2 %}, and {% elsif forloop.rindex == 1 %}.{% else %}, {% endif %}
+                  {% endfor %}
+                </div>
               </div>
               <div class="contents">
                 <div class="container">
@@ -29,8 +29,7 @@
                       {{ pub.abstract }}
                     </div>
                   </div>
-                  <div class="row justify-content-center">
-                    <div class="col-sm-1"></div>
+                  <div class="row justify-content-center bottom-row">
                     <div class="col-sm-4 text-center">
                       <a href="{{ pub.arXiv_url }}">arXiv</a>
                     </div>
@@ -39,7 +38,6 @@
                         <a href="{{ pub.journal.url }}">{{ pub.journal.name }}</a>
                       </div>
                     {% endif %}
-                    <div class="col-sm-1"></div>
                   </div>
                 </div>
               </div>

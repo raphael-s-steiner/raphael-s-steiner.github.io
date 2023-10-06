@@ -30,10 +30,12 @@
         background-color: $gray-100;
         transition: max-height .8s linear 0s, padding 0.04s linear 0s;
         overflow: hidden;
-        .container {
-          .row {
-            padding: 10px 0px;
+        .container .row {
+          padding: 10px 0px;
+          .bottom-row {
+            padding: 0px 0px 10px;
           }
+          .
         }
       }
 
