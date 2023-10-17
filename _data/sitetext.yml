@@ -153,7 +153,23 @@ en: &DEFAULT_EN
     title: "Publications"
     section: publications
     list:
-      - title: "Sums of Cusp Form Coefficients Along Quadratic Sequences"
+      - title: "Rethinking metallic luster and iridescence in animal coloration"
+        abstract: "Some structural colors in nature are frequently described as metallic. For example, hummingbird plumage, jewel beetles and *Morpho* butterflies have this attribute. While much attention has been paid to describing the often-shifting hues of these structural colors, there has been little interest in explaining why they appear metallic. In this paper, we argue that the metallic luster (the metallic appearance or sheen) of some structural colors arises in part from a combination of two factors: a colored specular reflection and a very low diffuse reflection. Reflections with these characteristics are found in metals and are distinct from other material reflections in nature. We propose that metallic luster can be classified based on these two reflectance properties (colored specular reflection and low diffuse reflection). We also suggest that some of the ambiguity surrounding the term \“iridescent structural color\” can be traced to the frequent confounding of metallic luster with a common definition of iridescence: a shift of peak spectral wavelength (often referred to as hue) with viewing angle. We show using optical models and cross-polarization imaging of bird plumage that two types of structural colors that are often classified as \“iridescent\” and \“non-iridescent\” both display iridescence—but only one type has metallic luster. By considering metallic luster and iridescence separately, we simultaneously clarify terminology in structural colors and open up many new lines of inquiry regarding the perception of metallic luster in animals."
+        arXiv_alt: "bioRxiv"
+        arXiv_url: https://www.biorxiv.org/content/10.1101/2023.10.12.562066v1
+        journal:
+          name:
+          status: "submitted"
+          url:
+        Co_Auth_text: "joint with "
+        Co_Auth:
+          - name: "Klara K. Nordén"
+            url: https://klaranorden.com/
+          - name: "Anna B. Stephenson"
+            url: https://scholar.google.com/citations?user=TE3JLdUAAAAJ&hl=en
+          - name: "Mary Caswell Stoddard"
+            url: https://www.marycstoddard.com/
+      - title: "Sums of cusp form coefficients along quadratic sequences"
         pre: "Appendix to "
         abstract: "Let $f(z)=\\sum A(n) n^{\\frac{k-1}{2}}e(nz)$ be a cusp form of weight $k \\ge 3$ on $\\Gamma_0(N)$ with character $\\chi$. By studying a certain shifted convolution sum, we prove that $\\sum_{n\\le X}A(n^2+h)$$=c_{f,h}X$$+O_{f,h,\\epsilon}(X^{\\frac{3}{4}+\\epsilon})$ for $\\epsilon>0$, which improves a result of Blomer from 2008 with error $X^{\\frac{6}{7}+\\epsilon}.$ This includes an appendix due to Raphael S. Steiner, proving stronger bounds for certain spectral averages."
         arXiv_url: https://arxiv.org/abs/2301.11901
@@ -178,7 +194,7 @@ en: &DEFAULT_EN
           url:
         Co_Auth_text: ""
         Co_Auth:
-      - title: "Chowla and Sarnak Conjectures for Kloosterman Sums"
+      - title: "Chowla and Sarnak conjectures for Kloosterman sums"
         abstract: "We formulate several analogues of the Chowla and Sarnak conjectures, which are widely known in the setting of the Möbius function, in the setting of Kloosterman sums. We then show that for Kloosterman sums, in some cases, these conjectures can be established unconditionally."
         arXiv_url: https://arxiv.org/abs/2211.00379
         journal:
@@ -224,7 +240,7 @@ en: &DEFAULT_EN
         Co_Auth:
           - name: "Ilya Khayutin"
             url: https://khayutin.github.io/
-      - title: "Sup-norm of Hecke-Laplace Eigenforms on $S^3$"
+      - title: "Sup-norm of Hecke-Laplace eigenforms on $S^3$"
         abstract: "We prove sub-convex bounds on the fourth moment of Hecke-Laplace eigenforms on $S^3$. As a corollary, we get a bound on the sup-norm on an individual eigenform, which constitutes an improvement over what is achievable through employing the Iwaniec-Sarnak amplifier."
         arXiv_url: https://arxiv.org/abs/1811.03949
         journal:
@@ -290,7 +306,7 @@ en: &DEFAULT_EN
             url: https://tdbrowning.github.io/tdb/
           - name: "V. Vinay Kumaraswamy"
             url: https://scholar.google.at/citations?user=FhNwBeQAAAAJ&hl=de
-      - title: "Near Counterexamples to Weil&rsquo;s Converse Theorem"
+      - title: "Near counterexamples to Weil&rsquo;s converse theorem"
         abstract: "We show that in Weil's converse theorem the functional equations of multiplicative twists for at least the first $\\sqrt{\\frac{p-24}{3}}$ moduli are needed in order to prove the modularity for $\\Gamma_0(p)$."
         arXiv_url: http://arxiv.org/abs/1606.06923
         journal:
@@ -308,7 +324,7 @@ en: &DEFAULT_EN
           url: https://doi.org/10.1016/j.jnt.2019.04.010
         Co_Auth_text: ""
         Co_Auth:
-      - title: "Supnorm of Modular Forms of half-integral Weight in the Weight Aspect"
+      - title: "Supnorm of modular forms of half-integral weight in the weight aspect"
         abstract: "We bound the supnorm of half-integral weight Hecke eigenforms in the Kohnen plus space of level $4$ in the weight aspect, by combining bounds obtained from the Fourier expansion with the amplification method using a Bergman kernel."
         arXiv_url: http://arxiv.org/abs/1504.08246
         journal:
@@ -340,7 +356,7 @@ en: &DEFAULT_EN
 
 
   footer:
-    date: "Last updated: 3 October 2023"
+    date: "Last updated: 17 October 2023"
     legal:
     social:
       - url: https://twitter.com
