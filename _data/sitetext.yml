@@ -189,7 +189,7 @@ en: &DEFAULT_EN
         abstract: "We provide uniform bounds for sums of Kloosterman sums in all arithmetic progressions. As a consequence, we find that Kloosterman sums do not correlate with periodic functions."
         arXiv_url: https://arxiv.org/abs/2302.06409
         journal:
-          name: "Mathematika"
+          name: "Mathematika (2023)"
           status: "published"
           url: https://doi.org/10.1112/mtk.12232
         Co_Auth_text: ""
