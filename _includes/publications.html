@@ -18,7 +18,7 @@
                 <div class="text-left text-muted">
                   {{ pub.Co_Auth_text }}
                   {% for auth in pub.Co_Auth %}
-                    <a href="{{auth.url}}">{{ auth.name }}</a>{% if forloop.rindex == 2 %}, and {% elsif forloop.rindex == 1 %}.{% else %}, {% endif %}
+                    <a href="{{auth.url}}">{{ auth.name }}</a>{% if forloop.rindex == 2 %}{% if forloop.index == 1 %}{% else %},{% endif %} and {% elsif forloop.rindex == 1 %}.{% else %}, {% endif %}
                   {% endfor %}
                 </div>
               </div>
