@@ -154,7 +154,7 @@ en: &DEFAULT_EN
     section: publications
     list:
       - title: "Theta functions, fourth moments of eigenforms, and the sup-norm problem III"
-        abstract: "In the prequel, a sharp bound in the level aspect on the fourth moment of Hecke--Maaß forms with an inexplicit (in fact exponential) dependency on the eigenvalue was given. In this paper, we develop further the framework of explicit theta test functions in order to capture the eigenvalue more precisely. We use this to reduce a sharp hybrid fourth moment bound to an intricate counting problem. Unconditionally, we give a hybrid bound, which is sharp in the level aspect and with a slightly larger than convex dependency on the eigenvalue."
+        abstract: "In the prequel, a sharp bound in the level aspect on the fourth moment of Hecke-Maaß forms with an inexplicit (in fact exponential) dependency on the eigenvalue was given. In this paper, we develop further the framework of explicit theta test functions in order to capture the eigenvalue more precisely. We use this to reduce a sharp hybrid fourth moment bound to an intricate counting problem. Unconditionally, we give a hybrid bound, which is sharp in the level aspect and with a slightly larger than convex dependency on the eigenvalue."
         arXiv_url: https://arxiv.org/abs/2311.16255
         journal:
           name:
