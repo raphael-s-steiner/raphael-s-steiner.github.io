@@ -153,6 +153,15 @@ en: &DEFAULT_EN
     title: "Publications"
     section: publications
     list:
+      - title: "Theta functions, fourth moments of eigenforms, and the sup-norm problem III"
+        abstract: "In the prequel, a sharp bound in the level aspect on the fourth moment of Hecke--Maaß forms with an inexplicit (in fact exponential) dependency on the eigenvalue was given. In this paper, we develop further the framework of explicit theta test functions in order to capture the eigenvalue more precisely. We use this to reduce a sharp hybrid fourth moment bound to an intricate counting problem. Unconditionally, we give a hybrid bound, which is sharp in the level aspect and with a slightly larger than convex dependency on the eigenvalue."
+        arXiv_url: https://arxiv.org/abs/2311.16255
+        journal:
+          name:
+          status: "submitted"
+          url:
+        Co_Auth_text: ""
+        Co_Auth:
       - title: "Rethinking metallic luster and iridescence in animal coloration"
         abstract: "Some structural colors in nature are frequently described as metallic. For example, hummingbird plumage, jewel beetles and <i>Morpho</i> butterflies have this attribute. While much attention has been paid to describing the often-shifting hues of these structural colors, there has been little interest in explaining why they appear metallic. In this paper, we argue that the metallic luster (the metallic appearance or sheen) of some structural colors arises in part from a combination of two factors: a colored specular reflection and a very low diffuse reflection. Reflections with these characteristics are found in metals and are distinct from other material reflections in nature. We propose that metallic luster can be classified based on these two reflectance properties (colored specular reflection and low diffuse reflection). We also suggest that some of the ambiguity surrounding the term \"iridescent structural color\" can be traced to the frequent confounding of metallic luster with a common definition of iridescence: a shift of peak spectral wavelength (often referred to as hue) with viewing angle. We show using optical models and cross-polarization imaging of bird plumage that two types of structural colors that are often classified as \"iridescent\" and \"non-iridescent\" both display iridescence—but only one type has metallic luster. By considering metallic luster and iridescence separately, we simultaneously clarify terminology in structural colors and open up many new lines of inquiry regarding the perception of metallic luster in animals."
         arXiv_alt: "bioRxiv"
