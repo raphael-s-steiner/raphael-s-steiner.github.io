@@ -259,7 +259,7 @@ en: &DEFAULT_EN
         Co_Auth_text: ""
         Co_Auth:
       - title: "The harmonic conjunction of automorphic forms and the Hardy-Littlewood circle method"
-        abstract: "The delta symbol circle method is applied to the problem of equidistribution of rational points on shrinking sets of the 3-sphere. This leads to a correlation sum of Kloosterman sums and an exponential function also known as the twisted Linnik–Selberg conjecture, which is further analysed by means of the Kuznetsov trace formula. Furthermore, the circle method in the guise of Wooley’s efficient congruencing machinery is employed in an effective manner to obtain effective bounds on Vinogradov’s mean value theorem"
+        abstract: "The delta symbol circle method is applied to the problem of equidistribution of rational points on shrinking sets of the 3-sphere. This leads to a correlation sum of Kloosterman sums and an exponential function also known as the twisted Linnik–Selberg conjecture, which is further analysed by means of the Kuznetsov trace formula. Furthermore, the circle method in the guise of Wooley’s efficient congruencing machinery is employed in an effective manner to obtain effective bounds on Vinogradov’s mean value theorem."
         arXiv_alt: "Download"
         arXiv_url: ./Thesis_Hard_Bound.pdf
         journal:
