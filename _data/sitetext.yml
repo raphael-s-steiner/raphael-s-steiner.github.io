@@ -30,9 +30,9 @@ en: &DEFAULT_EN
       - title: "Optimisation"
         desc: "Whether work, data, computation flows, or simply numbers, I take joy in modelling and optimising, in particular getting to that sweet optimum."
         icon: fas fa-database
-      - title: "Problem Solving"
-        desc: "Whether math olympiad problems or any other questions of a mathematical flavour, I enjoy thinking about them as well as exchanging ideas and solution approaches."
-        icon: fas fa-lightbulb
+      # - title: "Problem Solving"
+      #   desc: "Whether math olympiad problems or any other questions of a mathematical flavour, I enjoy thinking about them as well as exchanging ideas and solution approaches."
+      #   icon: fas fa-lightbulb
 
   portfolio:
     title: "Selected Publications"
