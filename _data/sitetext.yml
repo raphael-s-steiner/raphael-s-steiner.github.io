@@ -21,12 +21,15 @@ en: &DEFAULT_EN
     text: ""
     section: interests
     list:
-      - title: "Automorphic Forms" #Number Theory, Automorphic forms, Problem Solving, Fotography
+      - title: "Automorphic Forms" #Number Theory, Automorphic forms, Problem Solving, Fotography, Optimisation, Operations Research
         desc: "I am interested in questions relating to arithmetic quantum chaos, such as (moments of) $L^p$-norms and other objects relating to automorphic forms, such as $L$-functions and Kloosterman sums."
         icon: fas fa-wave-square #find more at https://fontawesome.com/icons wave-square book check lightbulb
       - title: "Number Theory"
         desc: "Whilst my research is centered around automorphic forms, I have a further interest in sieves and a soft spot for elementary number theory."
         icon: fas fa-book
+      - title: "Optimisation"
+        desc: "Whether work, data, computation flows, or simply numbers, I take joy in modelling and optimising, in particular getting to that sweet optimum."
+        icon: fas fa-database
       - title: "Problem Solving"
         desc: "Whether math olympiad problems or any other questions of a mathematical flavour, I enjoy thinking about them as well as exchanging ideas and solution approaches."
         icon: fas fa-lightbulb
@@ -46,6 +49,11 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
+      - title: "Research Engineer"
+        year: "2023-"
+        desc: "At the Computing Systems Lab, Huawei Research Center, Zürich, CH."
+        image: assets/img/timeline/Huawei.png
+        alt:
       - title: "Hermann Weyl Instructor"
         year: "2020-2023"
         desc: "Postdoctoral Researcher at ETH, Zürich, CH."
@@ -74,7 +82,7 @@ en: &DEFAULT_EN
         # you can enforce the alignment
 #        align: right
     end: "Click here <br> to see my full <br> CV"
-    url: /CV_general_Raphael_Steiner_EN.pdf
+    url: /CV_academic_Raphael_Steiner_EN.pdf
 
 
 #  about:
@@ -110,7 +118,9 @@ en: &DEFAULT_EN
 
   team:
     title: "About me"
-    text: "I had the pleasure of being a Hermann-Weyl-Instructor at ETH in Zurich. Previously, I've been a member at the IAS in Princeton and before that I was doing my Ph.D. at the University of Bristol under the joint supervision by [Tim Browning](https://pub.ist.ac.at/~tbrownin/) and [Andrew Booker](http://www.bristol.ac.uk/maths/people/andrew-r-booker/index.html). My topics of interest lie in analytic number theory. Currently, I'm particularly interested in Automorphic Forms and their distributional aspects. <br>
+    text: "I am currently a research engineer at the Computing Systems Lab at the Huawei Research Center in Zürich. I am working on aspects of high performance computing, such as (a)synchronous dataflows, shared and distributed memory systems, and distributed algorithms. <br>
+    <br>
+    Prior to my current employement, I had the pleasure of being a Hermann-Weyl-Instructor at ETH in Zurich and a member at the Institute for Advanced Study in Princeton. There I conducted research in analytic number theory, in particular, the theory of automorphic forms. I have received my Ph.D. from the University of Bristol under the joint supervision by [Tim Browning](https://pub.ist.ac.at/~tbrownin/) and [Andrew Booker](http://www.bristol.ac.uk/maths/people/andrew-r-booker/index.html). <br>
     <br>
     Before university I participated in the [Swiss Math Olympiad](https://mathematical.olympiad.ch/), where I've won a complete set of medals over the three years I participated. I further qualified for the [International Math Olympiad](https://www.imo-official.org/), where I won a bronze medal in my last year. After participating I joined the organisation team of the [Swiss Math Olympiad](https://mathematical.olympiad.ch/), where I was quite active until recently. Over the years some of my problems made it into different exams and you can find a nice selection thereof in the [Olympiad section](/olymp)."
     subtext: ""
@@ -207,7 +217,7 @@ en: &DEFAULT_EN
         abstract: "We formulate several analogues of the Chowla and Sarnak conjectures, which are widely known in the setting of the Möbius function, in the setting of Kloosterman sums. We then show that for Kloosterman sums, in some cases, these conjectures can be established unconditionally."
         arXiv_url: https://arxiv.org/abs/2211.00379
         journal:
-          name: "Mathematische Nachrichten"
+          name: "Mathematische Nachrichten 297 1 (2024)"
           status: "published"
           url: https://doi.org/10.1002/mana.202200480
         Co_Auth_text: "joint with "
@@ -365,7 +375,7 @@ en: &DEFAULT_EN
 
 
   footer:
-    date: "Last updated: 17 October 2023"
+    date: "Last updated: 27 February 2024"
     legal:
     social:
       - url: https://twitter.com
