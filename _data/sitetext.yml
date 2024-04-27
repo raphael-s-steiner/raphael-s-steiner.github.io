@@ -118,11 +118,7 @@ en: &DEFAULT_EN
 
   team:
     title: "About me"
-    text: "I am currently a research engineer at the Computing Systems Lab at the Huawei Research Center in Zürich. I am working on aspects of high performance computing, such as (a)synchronous dataflows, shared and distributed memory systems, and distributed algorithms. <br>
-    <br>
-    Prior to my current employement, I had the pleasure of being a Hermann-Weyl-Instructor at ETH in Zurich and a member at the Institute for Advanced Study in Princeton. There I conducted research in analytic number theory, in particular, the theory of automorphic forms. I have received my Ph.D. from the University of Bristol under the joint supervision by [Tim Browning](https://pub.ist.ac.at/~tbrownin/) and [Andrew Booker](http://www.bristol.ac.uk/maths/people/andrew-r-booker/index.html). <br>
-    <br>
-    Before university I participated in the [Swiss Math Olympiad](https://mathematical.olympiad.ch/), where I've won a complete set of medals over the three years I participated. I further qualified for the [International Math Olympiad](https://www.imo-official.org/), where I won a bronze medal in my last year. After participating I joined the organisation team of the [Swiss Math Olympiad](https://mathematical.olympiad.ch/), where I was quite active until recently. Over the years some of my problems made it into different exams and you can find a nice selection thereof in the [Olympiad section](/olymp)."
+    text: "I am currently a research engineer at the Computing Systems Lab at the Huawei Research Center in Zürich. I am working on aspects of high performance computing, such as (a)synchronous dataflows, shared and distributed memory systems, and distributed algorithms. <br> <br> Prior to my current employement, I had the pleasure of being a Hermann-Weyl-Instructor at ETH in Zurich and a member at the Institute for Advanced Study in Princeton. There I conducted research in analytic number theory, in particular, the theory of automorphic forms. I have received my Ph.D. from the University of Bristol under the joint supervision by [Tim Browning](https://pub.ist.ac.at/~tbrownin/) and [Andrew Booker](http://www.bristol.ac.uk/maths/people/andrew-r-booker/index.html). <br> <br> Before university I participated in the [Swiss Math Olympiad](https://mathematical.olympiad.ch/), where I've won a complete set of medals over the three years I participated. I further qualified for the [International Math Olympiad](https://www.imo-official.org/), where I won a bronze medal in my last year. After participating I joined the organisation team of the [Swiss Math Olympiad](https://mathematical.olympiad.ch/), where I was quite active until recently. Over the years some of my problems made it into different exams and you can find a nice selection thereof in the [Olympiad section](/olymp)."
     subtext: ""
     section: about
     align: left
@@ -239,8 +235,8 @@ en: &DEFAULT_EN
         abstract: "For an $L^2$-normalized holomorphic newform $f$ of weight $k$ on a hyperbolic surface of volume $V$ attached to an Eichler order of squarefree level in an indefinite quaternion algebra over $\\mathbb{Q}$, we prove the sup-norm estimate $\\Vert \\mathrm{Im}(\\cdot)^{\\frac{k}{2}}f \\Vert_{\\infty} \\ll_{\\epsilon} (kV)^{\\frac{1}{4}+\\epsilon}$ with absolute implied constant. For a cuspidal Maaß newform $\\varphi$ of eigenvalue $\\lambda$ on such a surface, we prove that $\\Vert \\varphi \\Vert_{\\infty} \\ll_{\\lambda,\\epsilon} V^{\\frac{1}{4}+\\epsilon}$. We establish analogous estimates in the setting of definite quaternion algebras."
         arXiv_url: https://arxiv.org/abs/2207.12351
         journal:
-          name:
-          status: "submitted"
+          name: "Forum of Mathematics, Pi"
+          status: "accepted"
           url:
         Co_Auth_text: "joint with "
         Co_Auth:
