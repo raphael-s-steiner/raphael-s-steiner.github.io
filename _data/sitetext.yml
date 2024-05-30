@@ -236,8 +236,8 @@ en: &DEFAULT_EN
         arXiv_url: https://arxiv.org/abs/2207.12351
         journal:
           name: "Forum of Mathematics, Pi"
-          status: "accepted"
-          url:
+          status: "published"
+          url: https://doi.org/10.1017/fmp.2024.9
         Co_Auth_text: "joint with "
         Co_Auth:
           - name: "Ilya Khayutin"
@@ -248,8 +248,8 @@ en: &DEFAULT_EN
         abstract: "We give sharp point-wise bounds in the weight-aspect on fourth moments of modular forms on arithmetic hyperbolic surfaces associated to Eichler orders. Thereby, we strengthen a result of Xia and extend it to co-compact lattices. We realize this fourth moment by constructing a holomorphic theta kernel on $\\mathbf{G} \\times \\mathbf{G} \\times \\mathbf{SL}_{2}$, for $\\mathbf{G}$ an indefinite inner-form of $\\mathbf{SL}_2$ over $\\mathbb{Q}$, based on the Bergman kernel, and considering its $L^2$-norm in the Weil variable. The constructed theta kernel further gives rise to new elementary theta series for integral quadratic forms of signature $(2,2)$."
         arXiv_url: https://arxiv.org/abs/2009.07194
         journal:
-          name:
-          status: "submitted"
+          name: "Compositio Mathematica"
+          status: "accepted"
           url:
         Co_Auth_text: "joint with "
         Co_Auth:
