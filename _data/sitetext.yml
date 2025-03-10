@@ -159,6 +159,21 @@ en: &DEFAULT_EN
     title: "Publications"
     section: publications
     list:
+      - title: "Efficient parallel scheduling for sparse triangular solvers"
+        abstract: "We develop and analyze new scheduling algorithms for solving sparse triangular linear systems (SpTRSV) in parallel. Our approach, which we call barrier list scheduling, produces highly efficient synchronous schedules for the forward- and backward-substitution algorithm. Compared to state-of-the-art baselines HDagg and SpMP, we achieve a $3.24\\times$ and $1.45\\times$ geometric-mean speed-up, respectively. We achieve this by obtaining an up to $11\\times$ geometric-mean reduction in the number of synchronization barriers over HDagg, whilst maintaining a balanced workload, and by applying a matrix reordering step for locality. We show that our improvements are consistent across a variety of input matrices and hardware architectures."
+        arXiv_url: https://arxiv.org/abs/2503.05408
+        journal:
+          name:
+          status: "submitted"
+          url:
+        Co_Auth_text: "joint with "
+        Co_Auth:
+          - name: "Toni Böhnlein"
+            url: 
+          - name: "Pál András Papp"
+            url: 
+          - name: "Albert-Jan N. Yzelman"
+            url: http://albert-jan.yzelman.net/
       - title: "Theta functions, fourth moments of eigenforms, and the sup-norm problem III"
         abstract: "In the prequel, a sharp bound in the level aspect on the fourth moment of Hecke-Maaß forms with an inexplicit (in fact exponential) dependency on the eigenvalue was given. In this paper, we develop further the framework of explicit theta test functions in order to capture the eigenvalue more precisely. We use this to reduce a sharp hybrid fourth moment bound to an intricate counting problem. Unconditionally, we give a hybrid bound, which is sharp in the level aspect and with a slightly larger than convex dependency on the eigenvalue."
         arXiv_url: https://arxiv.org/abs/2311.16255
@@ -371,7 +386,7 @@ en: &DEFAULT_EN
 
 
   footer:
-    date: "Last updated: 27 February 2024"
+    date: "Last updated: 10 March 2025"
     legal:
     social:
       - url: https://twitter.com
