@@ -169,9 +169,9 @@ en: &DEFAULT_EN
         Co_Auth_text: "joint with "
         Co_Auth:
           - name: "Toni Böhnlein"
-            url: 
+            url: https://dblp.org/pid/184/8326.html
           - name: "Pál András Papp"
-            url: 
+            url: https://scholar.google.com/citations?user=1GV5aZIAAAAJ&hl=hu
           - name: "Albert-Jan N. Yzelman"
             url: http://albert-jan.yzelman.net/
       - title: "Theta functions, fourth moments of eigenforms, and the sup-norm problem III"
@@ -264,8 +264,8 @@ en: &DEFAULT_EN
         arXiv_url: https://arxiv.org/abs/2009.07194
         journal:
           name: "Compositio Mathematica"
-          status: "accepted"
-          url:
+          status: "published"
+          url: https://doi.org/10.1112/S0010437X24007437
         Co_Auth_text: "joint with "
         Co_Auth:
           - name: "Ilya Khayutin"
