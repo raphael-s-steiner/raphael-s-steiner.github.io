@@ -159,6 +159,19 @@ en: &DEFAULT_EN
     title: "Publications"
     section: publications
     list:
+      - title: "Optimal tables for asymmetric numeral systems"
+        abstract: "We present several algorithms to generate tables for asymmetric numeral systems and prove that they are optimal in terms of discrepancy. In turn, this gives rise to the strongest proven bound on entropy loss. We further give improved theoretical bounds for the entropy loss in tabled asymmetric numeral systems and a brief empirical evaluation of the stream variant."
+        arXiv_url: https://arxiv.org/abs/2504.18541
+        journal:
+          name:
+          status: "submitted"
+          url:
+        Co_Auth_text: "joint with "
+        Co_Auth:
+          - name: "Mirko De Vita"
+            url: 
+          - name: "Endri Bezati"
+            url: 
       - title: "Efficient parallel scheduling for sparse triangular solvers"
         abstract: "We develop and analyze new scheduling algorithms for solving sparse triangular linear systems (SpTRSV) in parallel. Our approach, which we call barrier list scheduling, produces highly efficient synchronous schedules for the forward- and backward-substitution algorithm. Compared to state-of-the-art baselines HDagg and SpMP, we achieve a $3.24\\times$ and $1.45\\times$ geometric-mean speed-up, respectively. We achieve this by obtaining an up to $11\\times$ geometric-mean reduction in the number of synchronization barriers over HDagg, whilst maintaining a balanced workload, and by applying a matrix reordering step for locality. We show that our improvements are consistent across a variety of input matrices and hardware architectures."
         arXiv_url: https://arxiv.org/abs/2503.05408
@@ -386,7 +399,7 @@ en: &DEFAULT_EN
 
 
   footer:
-    date: "Last updated: 10 March 2025"
+    date: "Last updated: 29 April 2025"
     legal:
     social:
       - url: https://twitter.com
