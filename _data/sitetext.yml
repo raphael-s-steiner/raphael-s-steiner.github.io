@@ -185,6 +185,8 @@ en: &DEFAULT_EN
             url: https://dblp.org/pid/184/8326.html
           - name: "Pál András Papp"
             url: https://scholar.google.com/citations?user=1GV5aZIAAAAJ&hl=hu
+          - name: Christos K. Matzoros
+            url: https://scholar.google.com/citations?user=zyM55EgAAAAJ&hl=en
           - name: "Albert-Jan N. Yzelman"
             url: http://albert-jan.yzelman.net/
       - title: "Theta functions, fourth moments of eigenforms, and the sup-norm problem III"
