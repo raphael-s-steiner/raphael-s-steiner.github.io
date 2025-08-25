@@ -159,6 +159,23 @@ en: &DEFAULT_EN
     title: "Publications"
     section: publications
     list:
+      - title: "Symmetry-breaking symmetry in directed spectral partitioning"
+        abstract: "We break the symmetry in classical spectral bi-partitioning in order to incentivise the alignment of directed cut edges. We use this to generate acyclic bi-partitions and furthermore topological orders of directed acyclic graphs with superb locality. The new approach outperforms the state-of-the-art Gorder algorithm by up to $17\\times$ on total reuse distance and minimum linear arrangement."
+        arXiv_url: https://arxiv.org/abs/2508.16173
+        journal:
+          name:
+          status: "submitted"
+          url:
+        Co_Auth_text:
+        Co_Auth:
+          - name: "Dimosthenis Pasadakis"
+            url: https://dmspas.github.io/
+          - name: "Pál András Papp"
+            url: https://scholar.google.com/citations?user=1GV5aZIAAAAJ&hl=hu
+          - name: "Toni Böhnlein"
+            url: https://dblp.org/pid/184/8326.html
+          - name: "Albert-Jan N. Yzelman"
+            url: http://albert-jan.yzelman.net/
       - title: "Optimal tables for asymmetric numeral systems"
         abstract: "We present several algorithms to generate tables for asymmetric numeral systems and prove that they are optimal in terms of discrepancy. In turn, this gives rise to the strongest proven bound on entropy loss. We further give improved theoretical bounds for the entropy loss in tabled asymmetric numeral systems and a brief empirical evaluation of the stream variant."
         arXiv_url: https://arxiv.org/abs/2504.18541
