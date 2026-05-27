@@ -180,9 +180,9 @@ en: &DEFAULT_EN
         abstract: "We present several algorithms to generate tables for asymmetric numeral systems and prove that they are optimal in terms of discrepancy. In turn, this gives rise to the strongest proven bound on entropy loss. We further give improved theoretical bounds for the entropy loss in tabled asymmetric numeral systems and a brief empirical evaluation of the stream variant."
         arXiv_url: https://arxiv.org/abs/2504.18541
         journal:
-          name:
-          status: "submitted"
-          url:
+          name: "Information Theory Workshop (ITW 2025)"
+          status: "published"
+          url: https://doi.org/10.1109/ITW62417.2025.11240525
         Co_Auth_text: "joint with "
         Co_Auth:
           - name: "Mirko De Vita"
