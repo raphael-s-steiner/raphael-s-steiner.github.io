@@ -166,7 +166,7 @@ en: &DEFAULT_EN
           name:
           status: "submitted"
           url:
-        Co_Auth_text:
+        Co_Auth_text: "joint with "
         Co_Auth:
           - name: "Dimosthenis Pasadakis"
             url: https://dmspas.github.io/
