@@ -159,6 +159,23 @@ en: &DEFAULT_EN
     title: "Publications"
     section: publications
     list:
+      - title: "Elasticity in Parallel Sparse Triangular Solve"
+        abstract: "We introduce stale synchronous parallel as a mode of execution in parallel sparse triangular linear system solve and present a general directed-acyclic-graph scheduler capable of producing such schedules. Stale-synchronous-parallel schedules allow the overlap of synchronisation and compute which results in a geometric-mean speed-up of 7-30% of our scheduler, ElasticDivide, over state-of-the-art synchronous scheduler GrowLocal on an ARM machine using 48 cores. On an x86 machine using 48 cores, we report geometric-mean speed-ups of 19-60% over SpMP."
+        arXiv_url: https://arxiv.org/abs/2607.02324
+        journal:
+          name:
+          status: "submitted"
+          url:
+        Co_Auth_text: "joint with "
+        Co_Auth:
+          - name: Christos K. Matzoros
+            url: https://scholar.google.com/citations?user=zyM55EgAAAAJ&hl=en
+          - name: "Pál András Papp"
+            url: https://scholar.google.com/citations?user=1GV5aZIAAAAJ&hl=hu
+          - name: "Toni Böhnlein"
+            url: https://dblp.org/pid/184/8326.html
+          - name: "Albert-Jan N. Yzelman"
+            url: http://albert-jan.yzelman.net/
       - title: "Symmetry-breaking symmetry in directed spectral partitioning"
         abstract: "We break the symmetry in classical spectral bi-partitioning in order to incentivise the alignment of directed cut edges. We use this to generate acyclic bi-partitions and furthermore topological orders of directed acyclic graphs with superb locality. The new approach outperforms the state-of-the-art Gorder algorithm by up to $17\\times$ on total reuse distance and minimum linear arrangement."
         arXiv_url: https://arxiv.org/abs/2508.16173
