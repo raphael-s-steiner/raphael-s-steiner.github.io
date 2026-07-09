@@ -180,9 +180,9 @@ en: &DEFAULT_EN
         abstract: "We break the symmetry in classical spectral bi-partitioning in order to incentivise the alignment of directed cut edges. We use this to generate acyclic bi-partitions and furthermore topological orders of directed acyclic graphs with superb locality. The new approach outperforms the state-of-the-art Gorder algorithm by up to $17\\times$ on total reuse distance and minimum linear arrangement."
         arXiv_url: https://arxiv.org/abs/2508.16173
         journal:
-          name:
-          status: "submitted"
-          url:
+          name: "Symposium on Parallelism in Algorithms and Architectures (2026)"
+          status: "published"
+          url: https://doi.org/10.1145/3816782.3819184
         Co_Auth_text: "joint with "
         Co_Auth:
           - name: "Dimosthenis Pasadakis"
